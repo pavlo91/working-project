@@ -1,0 +1,194 @@
+https://github.com/SimRunBot
+
+-------Algorand-------
+https://algorand-pipeline-portfolio.vercel.app/
+
+-------Solana--------
+/* Minting */
+https://kryptokronic.io/
+https://www.soltradersclub.com/
+https://candy-factory-chi.vercel.app
+https://www.perkypandaclub.com/
+
+/* NFT with Game */
+https://chimpfight.io/
+https://www.jambomambo.com/
+https://www.plasmaverse.xyz/
+https://ev.io/
+
+
+
+-------Ethereum-------
+
+https://hyperpunks.com
+
+/* A contract where the client can raise funds, but only whitelisted wallets should be able to send funds to the contract, also the cap and transaction limit is fixed by the client.*/
+https://bscscan.com/address/0x56538133f1b6b666bf72f3a805add468355d70fb#code
+//BNB Staking
+https://bfarm.finance/ 
+//NFT minting
+https://app.mfrcoin.net/
+https://zedheads.club
+https://www.timerats.com/
+https://kungfutigers.art/
+/* Money is a robust innovative original powerful yield farming protocol. Designed with the purpose of giving people a safe place to store their tokens while giving great reward incentives to stakers.*/
+https://www.stakemoney.io/
+/* FuelUp is The Next-Level DeFi Yield Generator. */
+https://www.fuelup.finance/
+/* NFT marketplace*/
+https://app.bleufi.com/
+https://v1.xanalia.com
+/* ERC20 token generator */
+https://makemycrypto.com/
+/* DEX */
+https://www.socialswap.io/
+https://www.aurix.exchange/
+https://www.cryptomainframe.exchange/
+https://www.paritex.com/
+https://www.cryptozodiac.org/
+http://www.telecomsxchange.com/
+/*Quantum Secure Future QAST Blockchain Satellite Quantum Secure Cryptocurrency Exchange platform. */
+https://www.qexchange.ai/
+
+Trading platform
+https://localbitcoins.com/
+
+NFT game
+https://www.metasuperleague.io/
+https://etna.game/
+https://galaxyfightclub.com/
+https://www.colony.online/
+https://sales.bcbrawlers.com/
+https://play.google.com/store/apps/details?id=com.blockletegames.golf&hl=en&gl=US
+https://cryptoserval.io/
+https://untamedisles.com/
+https://0xwarriors.com/
+https://play.google.com/store/apps/details?id=com.bim.terravirtua&hl=en&gl=US
+https://cryptocrusades.io/
+https://www.playdissolution.com/
+https://piggericks.com/
+
+
+1. Cryptocurrency wallet extension like Metamask - https://equal.tech 
+2. Web crypto wallet, dashboard, PWA - https://fantom.foundation/ftm-wallet 
+3. Social cross-platform app based on blockchain - https://savl.com 
+4. Blockchain betting platform - https://wagerr.com 
+5. Decentralized platform based on Solana - https://www.degenape.academy 
+6. dApp developer at EURXB - https://app.eurxb.finance 
+7. SmartContract Developer at ESTT (ERC20 Token) - https://estt.io https://etherscan.io/address/0x3522feDe7c4239Bf440a13876820c38d52490871
+https://etherscan.io/token/0x3522feDe7c4239Bf440a13876820c38d52490871
+
+
+https://www.figma.com/file/NtCbzeC3qlQUHYQIlSAU9j/Duty.exchange?node-id=0%3A1
+https://www.figma.com/proto/EtdC0WFM56rFLXz4TvGN4o/SOLARR-NTF-Marketplace-Desktop?page-id=250%3A403&node-id=250%3A712&viewport=245%2C48%2C1.07&scaling=contain&starting-point-node-id=250%3A712 
+
+- NFT marketplace and Metaverse
+https://www.exoworlds.io/
+https://blockduelers.com 
+https://nftfm.io 
+
+- web based game 
+https://olympus.game/
+blockduelers.com
+
+- Game Launcher
+https://launcher.elixir.app/
+
+- NFT market place (Ethereum)
+https://NFTLOOTBOX.com
+https://lootbox.io
+https://www.lootworld.io/
+
+NFT websites and marketplaces 
+https://nft.spendee.com/ 
+https://theangryeggs.io/
+https://wing.finance/
+
+- NFT Website, minting logic, frontend connection and smart contract 
+www.digitaltwinclub.com 
+
+https://jpic.club/
+https://puzlnft.com
+https://www.vegasmeansbusiness.com/
+https://ethlas.com
+
+
+https://play.google.com/store/apps/details?id=com.nebeus.android&hl=en&gl=US <- An app that allows you to borrow, earn, exchange, and purchase insurance for your crypto-assets. Has Solana integration. 
+
+https://nash.io/ <- fintech app for everything: receiving your salary, doing your shopping – but also buying Bitcoin or earning interest through high-yield crypto protocols. 
+
+https://apps.apple.com/us/app/exodus-secure-crypto-wallet/id1414384820 <- a secure Crypto-wallet 
+https://interexy.com/case/crumb-app/ <- Fitness app for the German market 
+https://apps.apple.com/de/app/crumb-sport-belohnt/id1455844646?l=en
+https://interexy.com/case/one-rover-request-a-ride/ <- Uber-like app for UK market 
+https://apps.apple.com/us/app/one-rover-request-a-ride/id1492354564
+
+https://playkillaz.io/ (website, smart contract on Ethereum and marketing) 
+https://rensa.games/ (Launching next month) 
+https://www.hoodedeggs.net/ (Art, website, smart contract on Polygon) 
+http://thekraft.io/ (NFT Marketplace)
+
+https://omens-customization.netlify.app/
+https://omens-staking.netlify.app/
+https://teddyboy.io/
+https://raffle-deadreject.netlify.app/
+https://invokersnft.com/
+https://metaverse-society.io/
+https://stixex.io/ 
+https://master-chef.io/
+https://main--tangerine-dusk-c6d7a3.netlify.app/ (lottery game)
+https://rollbit.com/x-flip
+
+https://www.etoro.com/discover/markets/cryptocurrencies/coins (Trading platform)
+https://www.scoby.social (DAO?)
+https://app.klimadao.finance/ (DAO project)
+https://traderjoexyz.com (Avalanche)
+
+NFT Market place 
+https://www.secret-nft.com/
+https://www.unic.ly/
+https://fractional.art/collections
+https://www.partybid.app/parties
+https://metavpad.com/
+https://bigtime.gg/
+https://corsacnfttest.xyz/
+
+Solana
+https://phenomphoenixes.com/
+https://solanart.io/collections/invokers
+https://invokersnft.com/
+https://www.pricklypetesplatoon.army/
+
+- Grace Intelligent blockchain technology
+https://www.gib4u.com/ 
+
+- Grace generation information technology
+https://ggit2u.com/
+
+- crypto-exchange marketplace
+http://holytransaction.com
+
+- All-in-one DeFi and NFT with cashbacks
+https://octo.fi 
+
+- Shop with Crypto
+https://shopping.io
+
+ 1. https://www.generativealchemylab.com/
+2. Cosmic Universe
+https://cosmic-universe.herokuapp.com/ 
+3. NFT project https://friendly-bartik-f8415b.netlify.app/faq.html 
+4. NFT Staking we are building in progress https://www.fadeawaybunny.com/ 
+5. Blockchain Project and Smart contract https://compassionate-noyce-fd6fb4.netlify.app/#/home 
+6. NFT Project and Smart contract https://sharp-clarke-6af66e.netlify.app 
+7. NFT P2E https://www.trophee.xyz/ 
+8. Web 3.0 https://www.brightmoments.io/ 
+8. Solana minting https://willckao.vercel.app We also dabble in trading and banking bots: https://drive.google.com/drive/folders/1ENcJTeci0f-Hibm88_Qp4J9mo_heUAoy?usp=sharing 
+9. p2e NFT game https://metadogworld.io/
+
+- Game NFT Play to earn Metaverse of NFT Ner Future
+https://www.erisgalaxy.com
+- Global HR Business Solutions
+https://global-hrbusinesssolutions.com/
+- 
+https://kungfukoalas.com/

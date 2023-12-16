@@ -1,0 +1,229 @@
+	WrENTIT COMPLACE
+	Christian Kahler
+Game- and software-developer
+https://twitter.com/CaptainKahler
+
+________________________________________________________________________________________________________________________________
+
+Its been 7+ years since working in this industry,And have enough skills and ability to convert your ideas into reality.
+7+ years experience in game development using unity3d unreal engine, 3d modeling, 3d animations, any type of 2d designs and realistic 3d character modeling also can design your NFT based game and also NFT collections including 100, 1000 and upto 10000 NFT collection.
+
+We are providing these services which are mentioned below:
+
+1: Can develop and design 3d and 2d NFT based games from scratch to end product for all platforms in unity3d and unreal engine.
+
+2: Can create your NFT collection.
+
+3: Can create 3d models, characters, renders and 3d animations for your Games,Films,Websites and for 3d printing in Blender, Maya, 3ds max and cinema 4d.
+
+4: Can develop any type of virtual reality and augmented reality games and apps in unity3d.
+
+5: Can create HD graphics for game, apps and films.
+
+6: Can convert your simple videos into VR and also can stitch your videos to convert into VR.
+
+
+Feel free to contact with me for further discussion.
+Thanks
+
+Regards:
+________________________________________________________________________________________________________________________________
+
+3D Design/Animation, NFT, C#/Unity/Unreal/AR/VR/WebGL, Game Developer
+
+I have 5+ years of experience in Game Development.
+Played Game for over 10 years.
+
+Expert in 3D Rendering and experienced in creating Instagram, Facebook filters.
+Good experience using Spark AR Studio.
+Keep regular communication with clients.
+Translate 2D characters into 3D model, .STL to CAD.
+Professional Game Designer & Developer working in Unity & Unreal Engine.
+I can help you visualize your products.
+
+🏅 Expertise:
+C++, C#, Unreal Engine(UE4/5), Unity 3D, WebGL
+Roblox Studio, Play Canvas
+HTML5, CSS, SASS/SCSS, JavaScript
+2D & 3D Animation
+2D & 3D Design
+3D Modeling & Rendering
+Character Design, Rigging
+AR/VR Design
+Photorealistic Rendering
+Virtual Reality
+Motion Graphics
+Video Editing
+Visualizations
+Game Design and Development(2D/3D, Endless, Strategy)
+Blockchain & Play to earn games
+Ethereum, Smart Contracts, Solidity, Web3.js, Tokens, DApp
+NFTs designs and NFT Marketplaces
+Metaverse
+
+🏆 Tools:
+Adobe Photoshop
+Adobe Illustrator
+Adobe After Effects
+Fusion360
+VoxEdit
+Blender
+Pixologic Zbrush
+Autodesk 3ds Max
+Autodesk Maya
+Unreal Engine 4/5
+Maxon Cinema 4D
+
+Let's keep in touch!
+________________________________________________________________________________________________________________________________
+
+With 7 years of experience as a 3D visualizer, I have mastered many programs and has the ability to complete a multitude of project types with professionalism that exceed your expectations. I have a background in Architecture and has an expert knowledge of AutoCAD, Revit, SketchUp, 3DS Max, Photoshop, Unreal Engine 4, and more. I have completed still renderings, animations, interactive walk-throughs, and virtual reality walk-throughs emphasizing the unbuilt world to architects, developers, and clients. With experience using the HTC Vive headset, Oculus headset, Samsung Gear VR headset, and others, any virtual reality needs will be created on time and budget while bringing excitement to the project. With the ability to code interactivity into your projects, I can add any functionality to your projects to bring them to life; this can include changing materials, turning on lights, opening doors, changing the time of day, or anything you can think up, all in real time! After working as an intern architect, I made the move to full-time visualization because he loved creating beautiful images that bring full understanding of what the space is going to look and function like for the whole design team, including the client. I'm passionate about pushing the limits of technology in the architectural visualization field and would love to work with you to display your dreams in the most realistic ways possible.
+________________________________________________________________________________________________________________________________
+
+Unity & Oculus Game/App Developer, AR/VR Expert, Course Creator
+
+Hi Everyone!,
+
+I am a Fullstack JavaScript and game developer, curriculum builder and content writer. I write clean and well documented code. Over 7 years of development experience. and making web apps. I am also an author at SitePoint, which is a popular web development platform for other developers.
+
+I currently develop games and Virtual Reality apps (got to be ready for the next big party!). I use Unity3d for developing games and other content. I have a couple of Unity certifications on Unity and C#.
+
+I have developed for HTC Vive and Oculus Quest 1 and 2.
+
+Besides coding, I like meta learning and reading and neuroscience. I also write voraciously (well at-least I'd like to think so)!
+
+With me you will get a responsible developer, who can finish tasks on time and communicates well. I also care about your business and where it's headed, and focus on building long term relationships.
+________________________________________________________________________________________________________________________________
+
+AR, VR, Metaverse & Advanced E-commerce Platforms
+
+Solutions Architect for AR, VR and Metaverse Applications; Design, Development and Deployment. Specialising in Advanced E-Commerce Platforms with embedded Computer Vision, Augmented Reality and NFT Features for Retail, Advertising, Training, Gaming and Entertainment.
+
+Computer Vision tech stack design and SDK implementation - SLAM, Gesture, Hand Tracking, Object Detection, Occlusion and Collision Detection. Augmented Reality Systems performance optimisation for mobile.
+
+Machine Learning IUI design and advanced performance analytics and visualisation.
+
+Advanced UX and optimised workflow design, Custom Artwork and full Visual Effects capability. Wireframes and high fidelity visual prototyping.
+
+Procedural content generation machine learning systems development for responsive, immersive animation. 3D asset repository, deep cloud and edge compute systems design for low latency mobile deployment.
+
+Motion Capture system design and choreography for immersive experiences. Motion Capture file repository, deep cloud and edge compute systems design for low latency mobile deployment.
+________________________________________________________________________________________________________________________________
+
+Senior AR/VR Unity3D Developer
+
+Hi all,
+
+I'm a senior AR/VR Engineer with 10+ years’ experience. I’ve also worked as a C# Game developer for more than 7 years.
+
+Over this time I've got a big expertise in Unity, AR/VR architectures, AR/VR devices and tools.
+
+Brief summary:
+- 9+ years of Unity development: AR/VR, games, Vuforia, Hololens, etc.
+- always enhance knowledge in object-oriented and functional programming, as well as modern technologies and methods of development;
+- UX/UI oriented worked as a game designer;
+- follow best practices, creative and responsible worker;
+- tech geek
+-self-motivated, attentive to details
+- Architecture mind and perfectionist;
+- creative thinking;
+
+Programming languages:
+C#, JavaScript
+
+AR/VR:
+Unity3D, Vuforia, ARKit, ARCore, WebGL, Web AR, Zbrush, Photon Cloud, UNET, Steam .Net framework, Socket's, Photoshop,
+
+AR/VR devices:
+iOS, Android, Hololens, Oculus, HTC Vive, Windows Mixed Reality HP, HTC Focus, Gear VR, Google Cardboard
+
+Operating Systems:
+Mac OS, Linux (Arch Linux, CentOS, Ubuntu), MS Windows
+
+Tools:
+Jira, Trello, Git, Bitbucket, Gitlab, Xcode, Android Studio, MS Visual Studio, Photoshop, Sketch, Zeplin etc.
+
+PM Processes:
+Agile, Scrum, Kanban
+
+If you are looking for a reliable, creative and experienced IT professional in Ukraine to build your cutting edge AR/VR product or game, you have come to the right place - I will eagerly become your long-term partner. Let's start to work together!
+
+________________________________________________________________________________________________________________________________
+
+I am a Mobility Solution Architect of IOS, Android and Virtual / Augmented Reality (VR / AR). I have an extensive experience of 7 years in Objective C, Swift, iOS SDK, Java, Android for large enterprises and startups.
+
+Game development and design is my passion, so I take pleasure from the development of high-quality, polished products.
+
+My Expertise:
+✔ Mobile App Development: iOS (Objective-C, Swift, XCode) / Android (Java, Android Studio, Gradle)
+✔ Augmented Reality: Vuforia, Wikitude, Kudan, AR.JS, ARkit, ARcore, HoloLens, Meta 2, Moverio
+✔ Virtual Reality: SteamVR, Oculus, Google Cardboard, Windows Mixed Reality, Optitrack, Dexmo
+✔ Game engines: Unity3d, Unreal, Lumberyard
+✔ Art: Modeling, Texturing, Visualization
+
+My core competency lies in the complete satisfaction of my clients.
+
+________________________________________________________________________________________________________________________________
+
+Unity 3D experience, AR/VR development, WebGL.
+I’m passionate about virtual reality and enjoy developing innovative solutions.
+Brief summary:
+Programming languages:
+C#, C++, FreePascal
+Unity 3D game engine skills:
+- UI : Unity3d GUI
+- Optimization in Unity 2D, 3D games (Profiler)
+- Game Algorithms : Gameplay, Game lifecycle, Game Architecture, Objects pooling, Sensor System, Object path moving
+- Animations: 2D skeleton animations (Puppet2D), DOTweens animations
+- Third Party SDK integration, Unity Plugins
+Operating Systems: Mac OS
+Tools: Jira, Trello, Upwork, Docker, Git, Bitbucket, Rider, Gitlab, Xcode, Android Studio, VS Code, Photoshop etc.
+PM Processes: Agile, Scrum, Kanban
+
+________________________________________________________________________________________________________________________________
+
+5 years of Unity Game Development on PC, Mobile, XR/VR, and Console platforms. 5 years experience in writing production-quality code and developing new features on professional games/applications. Exceptional skills in Performance Optimization using the most current techniques and knowledge of the unique hardware/software strengths of a given platform.
+
+I have experience developing Unity projects on the following platforms:
+✅ Playstation 4 and 5
+✅ Xbox One (All models)
+✅ Xbox Series X
+✅ PC / Mac
+✅ Oculus Rift & Quest 2
+✅ Stadia & Linux
+✅ Azure Kinect + AR Platforms
+✅ Mobile iOS and Android
+
+⭐️ Performance Optimization ⭐️ I can help your game reach 30 FPS (33.3 ms) or 60 FPS (16.7 ms) by improving multiple aspects of your project
+⏩ Improved Garbage Collection
+⏩ Memory Optimization and Smarter Memory Management
+⏩ Improved Loading Times
+⏩ More Efficient Rendering
+⏩ Performant C# Code
+⏩ Fast User Interfaces
+⏩ Faster Physics Calculations
+
+📲Mobile Platform Readiness: iOS and Android have many differences and strengths that current optimization techniques can take advantage of. I will help your game squeeze every drop out of mobile hardware.
+
+🎮Console Specific Treatments: I can help you navigate the Sony TRC requirements as well as the Microsoft XR requirements. Using my industry experience porting games, I can help your game utilize the specific hardware features and strengths of consoles (and their variants) so that your game runs at its highest frame rate possible.
+
+Source Control Experience:
+🔀 Git
+🔀 SVN
+🔀 Perforce
+
+________________________________________________________________________________________________________________________________
+
+Hi,
+
+I'm a freelance Unity developer.
+
+I've got solid experience in many different projects with success.
+
+I am especially interested in AR/VR projects and videogames.
+
+Let's discuss exciting ideas!
+
+Best,
+
+Fernando

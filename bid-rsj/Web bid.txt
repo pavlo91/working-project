@@ -1,0 +1,608 @@
+__________________________________________________________________________________________________
+
+Hi, there.
+Nice to meet you( ͡❛ ᴗ ͡❛ )
+Thank you for your posting I am sure one of the freelancers you're looking for is just me.
+You will have no regret and full satisfaction without a doubt because this job just fits my skills.
+My best skills are as below:
+@ Responsive Website and Graphic Design
+@ HTML5, CSS, SCSS, TailWind,
+@ Javascript, TypeScript
+@ MERN/MEAN/MEVN Full-Stack (React/ReactNative, Angular, Vue, Next, Electron, Express, Node, Flutter, etc)
+@ PHP ,Shopify(Laravel, WordPress)
+@ MongoDB, MySQL, PostgreSQL
+@ Python, Django,AWS Lambda.
+@ Java, C/C++, C#, Android,Type iPhone, Mobile app
+
+My major projects are as follows:
+@ ReactJS
+http://feedly.com/
+http://imgur.com/
+https://www.9flats.com/
+https://www.campaignmonitor.com/
+https://carbook.ua/
+@ VueJS
+https://www.wesellrestaurants.com/
+@ NodeJS
+https://www.opencare.com/
+@ PHP, WordPressType
+http://www.titletap.com/
+http://www.autodriveaway.com/
+https://ecoguard.leadconcept.business
+@ PHP, Laravel
+http://bidlock.leadcoTypencept.info
+http://localbitcoin.leadconcept.business/login
+
+After all, I will bring you the competitive and relevant results that you're looking for and it might bring us together in future cooperation in regard to this field.
+In recognition of this project specification, I will offer a reasonable and agreeable budget and timeline that you can buy into.
+As I am excited about this opportunity, I am thankful if I might have a chance to talk with you via chat or zoom call.
+Regards,
+
+__________________________________________________________________________________________________
+
+
+𝐒𝐫. 𝐑𝐞𝐚𝐜𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 // 𝐈𝐦𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐒𝐭𝐚𝐫𝐭
+
+As a professional one, I have 7-8 years of experience as a Full Stack developer (Frontend / Backend).
+
+- Have the ability to work on multiple projects simultaneously,
+- Can efficiently manage my time,
+- Be involved from planning to delivery of various features and products,
+- Can implement new features for your platform, fix bugs, solve problems,
+- Maintain the existing code base;
+- Work closely together within your team,
+- Take over responsibility from implementation to deployment,
+- Balance speed and quality, with a focus on tangible results,
+
+With me, 𝐇𝐈𝐆𝐇-𝐐𝐔𝐀𝐋𝐈𝐓𝐘 results are guaranteed!
+
+𝐌𝐲 𝐭𝐨𝐩 𝐬𝐤𝐢𝐥𝐥𝐬 𝐢𝐧𝐜𝐥𝐮𝐝𝐞:
+— JavaScript, TypeScript
+— React.js, Redux, Next.js
+— Node.js, Express, GraphQL, PostgreSQL
+— Vue.js, Vuex, Vuetify, Nuxt.js
+— PHP, OOP, Laravel (v. 4.2-9.0)
+— AWS, Docker
+— APIs
+— MySQL, MongoDB, MariaDB, Redis
+— HTML, HTML5, CSS, CSS3
+— Bootstrap, jQuery, Tailwind CSS
+— GIT
+-------------------------
+One of my most successful projects:
+https://webwork-tracker.com
+
+It is a time-tracking and employee-monitoring software.
+A cross-platform tracking tool that helps you accurately track your working day by monitoring computer usage. In other words, it's tracking software to track remote workers.
+
+Technologies used: PHP, Laravel, MySQL, NodeJS, etc.
+
+I have had many other projects too, but I think this is the biggest, because it contains also different dashboards to get the team's productivity reports, hours of work, activity, active applications opened during work, screenshots, etc.
+
+Another example:
+https://remoteco.com/
+Node JS job portal. Includes payments and subscriptions development, backend development as Restful API, used also sockets. MongoDB database. Multi-language. Integration with a time tracker. Development of dashboards, report pages, contracts, and much more.
+
+Here is a React JS application for coin portfolio management.
+Created by the latest and modern react js standards, used Redux, React Routing, Animations, Next.js, and way more!
+https://cointrack.ai/
+
+One more React website was developed from scratch.
+https://wsalamoon.com/
+
+And finally, here is https://www.tender.am/en/
+Again React is used. I have created a number of different graphic reports for this project. Also done pie chart reports, timeline reports, line and bar graphs, and many other graphs.
+---------------------------------
+In case you have any questions, let me know.
+I'm willing to answer all of them.
+
+We can have a short call and discuss everything directly.
+I'm here to start ASAP.
+
+Willing to sign NDA if needed.
+
+!! 𝐋𝐄𝐓'𝐒 𝐌𝐀𝐊𝐄 𝐓𝐇𝐈𝐒 𝐇𝐀𝐏𝐏𝐄𝐍 𝐓𝐎𝐆𝐄𝐓𝐇𝐄𝐑 !!
+
+Regards,
+
+__________________________________________________________________________________________________
+
+
+
+Hi! With over 8 years of experience in building web applications using the MERN stack, I am confident that I have the skills and expertise required for this role.
+
+In my previous work experience, I have demonstrated strong proficiency in developing user-friendly, secure, and high-performing web applications. I have excellent knowledge of HTML, CSS, JavaScript, jQuery, and modern design principles, which helps me create aesthetically appealing interfaces. Moreover, I have experience with TailwindCSS and have implemented it in various projects to create responsive and customizable web designs.
+
+My expertise in developing RESTful APIs and web services to connect applications will come in handy in integrating databases and server-side development. I also have experience with Git and version control systems, which helps me collaborate with other developers and maintain the codebase. I am adept at implementing security best practices and secure coding techniques to ensure that the applications are robust and safe from potential threats.
+
+In my previous roles, I have been responsible for the full lifecycle development of web applications, including testing, debugging, and optimizing applications for maximum speed and scalability. I have strong problem-solving and debugging skills and can troubleshoot issues quickly.
+
+Here are some MERN web apps I worked on:
+1. "Moooi" — https://moooi.com/ Moooi is an online platform for modern, unique, and high-quality interior design products.
+2. "Pagaya" — https://pagaya.com/ Pagaya is a financial technology company that uses artificial intelligence to manage institutional investment portfolios and provide alternative investment solutions.
+3. "Emma" — https://myemma.com/ Emma is a personal finance management app that helps users track their spending, set budgets, and save money.
+
+I possess excellent communication, organizational, and time-management skills that help me work efficiently in a fast-paced environment. I am happy to jump on a call today or tomorrow to discuss all the details. What would be the best time for us to connect?'
+
+Best regards,
+
+________________________________________________________________________
+
+Hi!
+I'm a full stack expert with 6 years of professional experience and in-depth knowledge of the frameworks mentioned in the proposal.
+
+As a Software developer. My mission is to ensure that the final products are well-presented, engaging, and meet all the requirements.
+I've a bachelors and masters degree, and I'm also specialized in delivering software development lessons
+
+My portfolio includes
+https://www.westwing.de/
+https://www.apcoa.com
+https://insightsoftware.com/
+https://tradeit.gg/
+Since I have no language barriers, and my English level is C1, I can easily communicate and be integrated. And, of course, a high sense of humor will always ease miserable situations ))
+
+Looking forward to hearing from you!
+Best regards,
+
+________________________________________________________________________
+
+Hi, I am very interested in joining your team.
+
+Feel free to check my profile for positive feedback from my previous and current clients before we set up a call.
+
+Please check my past experiences.
+
+Recent Projects:
+https://lovemetrics.co
+Greenfield project developed from figma designs.
+The platform accepts a list of URLs as input and fetches data from various APIs and combines them into metrics.
+I built all of the microservices for fetching data and collating metrics and built the reports to display these metrics in an understandable way.
+Front-end: Nuxt / Vue.JS / Typescript / Tailwind
+Back-end: Node.js / Express / PostgreSQL
+
+https://www.releasd.com
+I migrated the complex legacy JS / jQuery app to Vue.
+I developed data visualisation widgets that required complex data conversion and processing.
+Front-end: Vue.js / VUEX.
+Back-end API: Ruby on Rails / MySQL.
+Micro-services: Node.js / Express micro-services.
+
+Looking forward to talk with you.
+Thanks.
+
+________________________________________________________________________
+
+Hello. I am writing to express my interest in joining your team. I believe I fit the role perfectly as I have relevant experience developing web applications using MERN stack, HTML, CSS, JavaScript, jQuery, TailwindCSS, RESTful APIs, etc.
+
+I communicate clearly, find creative solutions to problems and write robust code that can be relied upon. Have worked with Agile methodology and have experience with Git. I have a record of success in developing secure, user-friendly web applications related to different fields that are robust with clean, efficient code. I always strive for excellence with every project I work on.
+
+I’ve never got complaints about my responsibility or other soft skills, while working with various clients, including big companies and start-ups. I’ve always managed to build rapport with teams, which has led me to long-term cooperation. A lot of my clients come to me again. I do appreciate transparent communication.
+
+Please have a look at some of my projects:
+For example, I took part in the development complex project - Infludata (Landing: https://www.infludata.com, App: https://app.infludata.com).
+The application collects data from social media apps and provides useful metrics and profile info for users.
+- Worked on the backend part (express, mongo, mongoose, elastic search) and frontend part (react, redux, styled-components).
+- Developed frontend part from scratch, redesigned backend API, integrated own file server, and integrated docker containers.
+- Took part in app development planning, and proposed new useful features.
+
+Also, in the project - https://www.worldofdarkness.com/ - I have used Node.js, Express.js, Redis, and MongoDB and integrated 3rd party API.
+
+I look forward to learning more about the position and sharing more about why I am the perfect fit for your team. Please feel free to reach out if you have any questions.
+Best,
+
+________________________________________________________________________
+
+Hi.
+
+I am a Full-stack developer with 9+ years. I have rich experience in MERN.
+I always work to focus on the quality and the result of my project, so my code is easily understandable and well structured, they have no bugs and errors.
+I can start your job at any time when you need, I will provide creative opinions with my skills and I can work full-time for you.
+You can see my skills via the following sites that I have built.
+
+Featured Skills and Qualifications:
+- 5+ years of React/next experience
+- Expert knowledge of JavaScript, HTML, and CSS
+- Experience with REST APIs
+- Building Single Page Applications (SPAs) and Progressive Web Applications (PWAs)
+- Knowledge of Material-UI (desirable)
+- Understanding of UI and UX best practices (desirable)
+- Version control knowledge (Git)
+- Good communication skills
+
+React:
+https://www.deltanorth.com/
+https://dashboard.incu.app/login
+https://www.moonpig.com
+http://pricepointmoves.com
+https://www.presscleaners.com
+https://www.realtyshares.com
+https://www.miamiskinautiques.com
+
+I am looking forward to discussing with you your project in detail.
+Best Regard.
+
+________________________________________________________________________
+
+Hi,
+
+I am a "Dedicated" senior MERN Stack developer with 7+ years of experience. Expert in cutting-edge web app development & the required Skills. I am ready to work on your project as per your desire by giving you assurance of FAST WORK with your required skills. "I WORK 40 HOURS PER WEEK". I have completed a wide range of projects with a very quick turnaround timeline.
+
+I have executed "SIMILAR SKILLS" projects earlier, with a HIGH CUSTOMER SATISFACTION level. So, I am much interested to work on this project. I would strongly recommend you, Let's have a QUICK MEETING. So, I can discuss the scope of the work with you and share the best recommendation from my end.
+
+Below you can see a portfolio of my recent projects for evaluating my skills and capabilities.
+
+➥ MERN Stack projects
+- http://getplano.com/
+- https://insighttimer.com/
+- https://www.fitmango.com/
+- http://www.docsmit.com/
+- https://www.florahospitality.com/
+
+many more...
+
+These are just a few websites to give you a glimpse of my work and abilities. In addition, I have developed an ample number of websites for my clients that are equally unique and good but because of NDA with them, I cannot disclose all such.
+
+➥ Here are my Knowledge and skills: ---------------------------------------------
+
+I am a computer science graduate with over "7+ YEARS" of professional IT experience in Web programming And I have worked on,
+
+- ReactJS, Redux, NodeJS, AngularJS, VUE JS, JavaScript, Bootstrap, HTML5, CSS3, JQuery
+- Laravel, PHP, CodeIgniter, CakePHP
+- MySQL, Azure, SQL Server, LINQ, AWS, MongoDB, Vapor
+- AJAX, XML, REST API, API integration, Social media Integration, Payment Gateway Integration
+
+In case you have any questions, please FEEL FREE TO CONTACT me using the UP WORK MESSAGE SYSTEM. So, I can offer our suggestions and discuss your project requirements in detail.
+
+Thank you and I look forward to the opportunity to work with you.
+
+Thanks & Regards.
+
+________________________________________________________________________
+
+Hi.
+I went through your job post and saw that you are looking for a Full-stack developer. I have a functional understanding of designing & developing websites and understand the system's complexities well. I have an experience of more than 7 years.
+
+I have gained expertise in the MERN stack and developed multiple web applications for different domains, including healthcare, e-commerce, SAAS, eLearning, membership, and marketplace websites. I have seen the responsibilities and requirements listed in your job post and as per my experience I can implement this project
+
+Below are the recent projects that I've developed and managed:
+- https://doopoll.co/
+- https://www.reactioncommerce.com/index
+- https://sandstorm.io/
+
+My full-Stack experience includes the following:
+- Front-end JS Frameworks experience with Vue.JS, ReactJS, Node.JS, Angular JS, etc.
+- Excellent knowledge of the PHP language and the MVC Frameworks (Laravel, Yii, Codeigniter, and CakePHP) in particular
+- Specific experience in custom Module creation, Classmap generator, library installation, Compiling the PHAR file, and Autoloading files.
+- Experience working wiHello Yanath OOPS
+- MySQL Programming & Database, Node.js, & Administration
+- Database Design & Architecture
+- API Development, Integration, & Customization
+- AWS(Amazon Web Services) Administration: EC2, S3, CloudFront, RDS. ElasticBeanstalk
+- CI/CD DevOps processes to automate build/test/deploy
+- Front-end capabilities across JavaScript, JQuery, HTML5, and CSS3
+- Version control systems such as Git
+- Working on Apache / Nginx
+- Experience in optimizing databases
+- Saas / Less / Gulp / Grunt
+- Doctrine
+
+I am interested in your project and would like to discuss it in detail.
+
+I am sure my above relevant experience and in-depth knowledge of web development will provide me a leading edge in improving your website.
+Can you please let me know a suitable time to discuss the requirement over a voice/real-time session?
+I look forward to your positive response.
+
+Thanks, and Regards
+
+__________________________________________________________________________________________________
+
+Hi there,
+
+I am writing in response to your job posting for an experienced MERN Stack Developer with over 6 years of experience. As a full-stack developer with 5+ years of experience in the MERN Stack, I believe I am the best fit for this role.
+
+I have extensive experience in developing and maintaining web applications using MongoDB, Express.js, React, and Node.js. My knowledge of HTML, CSS, JavaScript, and jQuery is excellent, and I am proficient in using modern CSS frameworks such as Tailwind CSS. I am well-versed in modern design principles and user experience patterns, and I ensure that all the applications I develop are well-structured, secure, and optimized for performance.
+
+I am familiar with Git and version control systems and possess strong problem-solving and debugging skills. My ability to develop high-performance, scalable applications have been honed over the years, and I have experience with RESTful APIs and web services. I have a strong understanding of security best practices and secure coding techniques and can work in a fast-paced environment. My communication, organizational, and time-management skills are excellent.
+
+I am confident that my recent work and projects align perfectly with your needs. Please find links to some of my web apps as part of my portfolio:
+
+SimplerApp - https://simplerapp.co/
+Ensure - https://ensure.dk/
+Dentists Ranked - https://dentistsranked.com/
+PrintStation2Go - https://printstation2go.at/
+
+I have a proven track record of developing and maintaining complex web applications and delivering them on time and within budget. I am confident that I can bring the same level of dedication and expertise to your team.
+
+Thank you for considering my application. I am looking forward to the opportunity to discuss how I can contribute to your team further.
+
+Sincerely,
+
+
+__________________________________________________________________________________________________
+
+Hello
+
+I am a Full Stack developer, I have
+- Solid experience in Programming with JavaScript, ES6
+- Solid knowledge of JavaScript and TypeScript, React.js/Redux frameworks, Next.js
+- Great eye for detail Frontend UI Development using HTML5, CSS3 (SASS and Less), jQuery
+- Strong knowledge of core programming skills, algorithms, and data structures
+- Clear understanding of Object-Oriented Programming and Design Patterns
+- Confident with SQL, NoSQL databases, and the implementation of optimized SQL queries
+- Experience with Jira / Confluence, Git, Github/Bitbucket
+- Proven experience with cloud service providers (GCP or AWS)
+- Solid experience in Unit / Integration Testing
+- Always delivering great results and collaborating with team members well
+
+Looking forward to work together on your project.
+
+Sincerely.
+
+__________________________________________________________________________________________________
+
+Hello, I'd love to assist you with this project!
+
+Let me showcase some examples with you:
+
+☑️ https://www.rochway.com.au/
+☑️ https://www.patriotgoldgroup.com/
+☑️ https://www.longeviter.com/
+☑️ https://tawkeed.com.sa/
+☑️ https://mavenofmacau.com/
+
+About Me:
+
+I am a full-stack web developer with nearly 7+ years of experience in web development. I have designed and developed several websites and online projects from scratch.
+
+My duties and responsibilities include establishing and upholding website architecture, designing and implementing features and functions, managing the content management system (CMS), ensuring efficiency, performance, and availability, and tweaking all front-end elements to be as aesthetically pleasing as possible.
+
+Further, If you like you can drop us a couple of lines at Upwork PMB, I would happily spend 15 mins telling you everything you need to know.
+
+I am confident about the end result of this project due to my past relevant experience.
+
+Best~
+
+__________________________________________________________________________________________________
+
+Hi🔥🔥
+I'm a top-notch React /full-stack engineer with 7+ years of experience. I've finalized my current project and will be happy to help you with your complex project while your developer is on sick leave. I am an expert and ready to go through the tests to prove it. Let's schedule a call to discuss further and see if we can be a good fit. What time works best for you?
+
+🔥 Please, check a few past projects below:
+- http://www.letsmush.com/ - UK-based startup, Social networking app for mums (raised $4.5M of investment, has 500k+ users, and awarded as app of the year by Apple) – React Native, ROR, PostgreSQL, RedisDB, AWS
+
+- https://letsact.de/ - Volunteering platform in Germany;
+React.JS, React Native, Node JS, Express JS, Firebase, Amazon S3, Google APIs, MongoDB
+
+- https://privedoc.com/ - apps for video consultation with doctors, RN + Node.JS, OpenTok
+
+- https://www.younergy.ch/ -Younergy is all about the future and our planet care. It's a web application that helps people to manage all their solar systems and customers in one place. This app will prompt people to use more renewable energy and shows them that this is easier than they thought. Technical summary: HTML, CSS, JavaScript, React, Redux, MobX, Lodash, Sass, React Table, Recharts, GraphQL
+
+- https://www.jamessmithacademy.com/ - an online personal training platform built on the method of famous online personal trainer James Smith. The JSA aims to educate its members in fitness and provide them with all the tools necessary to reach and sustain their fitness goals. Technical summary: JavaScript, React, Redux, Bootstrap (Reactstrap), Jest, Enzyme, Git, Sass, jQuery, Docker, VirtualBox, Facebook Graph API Explorer, MobX.
+
+- https://beunleash.com/ - Customer portal with product catalog, subscription management, and check-out features. Technical stack: React.JS; Gatsby (React-based framework), Prismic CMS, Node.JS (NestJS)
+
+- https://nternow.com/ - On-Demand Access Service for locked vacant properties. Technical summary: ReactJS, Express, NestJS, MySQL, KnexJS.
+
+
+Hope to hear from you soon,
+
+__________________________________________________________________________________________________
+
+Hi,
+
+I am committed to building modern websites or updating the existing ones using the following technologies - Javascript, React, Redux, Node, Express, NestJS, HTML, CSS, JSS, SCSS, Tailwind-CSS, Styled components, Bootstrap, IMU, MongoDB, PostgreSQL, MySQL, GraphQL, Apollo, and AWS.
+
+I have recently been involved in developing several projects, like Dashboards, CRM, and eCommerce, by designing applications with a high emphasis on security and performance.
+
+I value simple content structure, clean design patterns, and thoughtful interactions. My expertise includes all development stages, from initial analysis through design and execution.
+
+Please refer to the following projects that I have worked on so far -
+https://www.cheshireblades.co.uk/
+https://www.ingenious.agency/
+https://clinia.com/
+https://gamahealthcare.com/
+https://surglogs.com/
+https://www.nursefly.com/
+https://polefit.ca/
+
+With my skills and experience, it would be great if I could commit to your project as well!
+
+Best
+
+__________________________________________________________________________________________________
+
+Hi,
+
+Thanks for reviewing my proposal. I have the required expertise and experience in building/enhancing web applications.
+
+We have expertise in:
+- React.JS, Typescript
+- Flask, Python, Node
+- Bootstrap, HTML5/CSS4
+- Linux server management experience (AWS)
+- Jenkins continuous integration
+- PSR-2 code compliance
+- OSWAP code compliance
+- Build tools (PHPMD, PHPCS, PHPCPD, Lint, PHPUnit)
+
+Here are details of some of the latest clients I have worked with recently in a similar capacity:
+
+QWealth: https://www.qwealth.com/
+Technologies: React, Typescript, Python, Flask
+AWS Services: AWS API gateway, Aws Lambda, Aws Code Pipeline, Aws CodeBuild, Aws Code Commit, Aws CodeDeploy, Aws S3, Aws Elastic Compute Cloud
+Third-party integrations: DocuSign, https://www.docusign.com/
+
+BrokrBinder: https://brokrbindr.com/
+Tech Stack: Angular, PHP, Laravel, MySQL
+Third-Party Integrations: Filogix, Selenium, Pipedrive,
+Automation Engines: Integromat, Zapier
+AWS Services: AWS S3, AWS Elastic compute, Route53
+CLI Tools: Chrome Headless, imagemagick, pdftk
+
+I can arrange demos for the above-mentioned projects too. Hoping to hear from your side and get things rolling.
+
+Cheers,
+
+__________________________________________________________________________________________________
+
+
+Hello!
+I just read your job post and it seems that you are looking for an experienced full-stack web developer.
+I'm confident that I can handle your task perfectly within your deadline as I'm a rich experienced full-stack web developer.
+
+I've worked on a similar project that you post before and at that time I used React for Frontend development and Node for Backend development.
+After development all, I deployed it using AWS EC2.
+
+Here are some skillsets:
+Front-End
+– Javascript, TypeScript, ECMAScript 6+
+– React/Redux, Next.js, Gatsby.js, Three.js
+– Vue, Vuex, Vuetify, Nuxt.js
+– Bootstrap, Sass, Styled Component, Material UI, Ant Design, Tailwind CSS
+– API Integration (REST, GraphQL, Apollo, Stripe, Google Maps, Twilio, WebRTC, Socket.IO)
+- Elastic Search, SSR/SSG, SEO
+
+Back-End
+- Java Spring Boot, Kotlin,
+– Ruby/Ruby on Rails, Go
+- Python Django / Flask
+– Node.js/Express.js
+– PHP, Laravel, WordPress
+– MySQL, MongoDB, PostgreSQL
+
+Others
+- Headless CMS platform(Prismic, Strapi, Contentful, Craft, WordPress)
+– GitHub, Gitlab, Bitbucket, Firebase, CRM
+– Jira, Trello, Teamwork, Monday, Figma, etc
+- Amazon Web Services, CI/CD, Docker, lambda, etc
+
+Flexible in my working hours and always energetic and eager to learn new skills.
+I would love the chance to further discuss the position and what skills I’d bring to the job.
+Thanks.
+
+__________________________________________________________________________________________________
+
+Hello, Sir
+As a frontend heavy JavaScript full stack developer, I'm very interested in this position
+
+My last contract was a full stack developer position in dexpool, my role included 70% of frontend tasks and 30% of backend tasks
+The project was built with react(next js), nest js(backend), and firebase
+I really did a good job
+Also, prior to this contract, I've worked with some companies and most of them were using react for the frontend development
+So I'm really good at react js and I love it
+
+Yes, we had a weekly meeting for the project discussion and if something is urgent, we had a meeting
+In short words, with my last team experience, I'm very familiar with the agile environment
+
+Sure, I'd like to take a test because I can show my skills fully
+
+These are my last Dexpool and other react projects
+https://dexpools-dex.vercel.app/
+https://hitpiece.com
+https://make.yourvone.com
+I attached my resume here, so you can check it
+
+Please reach out to me
+
+Thanks,
+
+
+__________________________________________________________________________________________________
+
+Hello there,
+Just gone through your job description and am willing to work with you.
+
+I am the best candidate for this job because I have participated in a similar project.
+
+Please check some of my prior works:
+
+https://play.google.com/store/apps/details?id=com.snapdit
+https://play.google.com/store/apps/details?id=com.edutech.edutech
+https://apps.apple.com/in/app/habit-stacker-daily-routine/id1445178269
+https://apps.apple.com/us/app/beer-elite/id1526449468
+
+https://senestudio.com/
+https://www.lal10.com/
+https://royalbaby.netlify.app/
+https://www.ncrypted.net/booknride
+https://www.grubgrams.com/
+https://www.ellaandsunday.com.au/
+
+I am a professional in Mobile & Web App Development. I am designing and building Mobile & Desktop apps with Backend API for industries, businesses, companies, and personal clients. My technologies include:
+
+- Mobile App Development with:
+◆ iOS - Swift, Objective-C
+◆ Android - Java, Kotlin
+◆ Flutter - Dart
+◆ React Native - React.js
+◆ Xamarin - C#
+
+- Web Development with:
+◆ PHP, HTML5, CSS
+◆ JavaScript, Node.js
+◆ React.js, Redux.js, MySQL
+◆ Bootstrap, CodeIgniter, WordPress, and Express
+◆ Building Custom API
+
+- Backend API Development with:
+◆ JavaScript, PHP
+◆ Typescript
+◆ Node.js
+
+- Database management with:
+◆ MongoDB
+◆ MySQL
+◆ SQLite
+◆ Realtime Database
+◆ Firestore
+
+- Cloud Platforms with:
+◆ Google Firebase (Baas)
+◆ Google Cloud Platform (GCP)
+◆ Amazon Web Services (AWS)
+◆ Restful API
+
+- Version control with:
+◆ Git (GitHub / GitLab / Bitbucket)
+◆ Jira / Trello
+
+From my expertise and experience, I can provide the perfect solutions and creative ideas.
+Looking forward to discussing your project and business.
+
+Thanks!
+
+__________________________________________________________________________________________________
+
+Hi there,
+Just gone through your job description and am willing to work with you.
+
+My tech stack:
+• Languages: C, FoxPro, C# 2.0/3.5/4.0/4.5, PHP, Java, VB.NET, T-SQL (DDL, DML), JavaScript, HTML/DHTML, XML (XSD, XSLT)
+• Technologies: ASP, ASP.NET 2.0/ 3.5/4.5, MVC, .Net Core, Magento, Laravel, Bootstrap, ADO.NET 2.0/ 3.5/4.0/4.5, Infragistics 7.2/7.3, AJAX
+• Databases: MS SQL Server 2000/2005/2008/2012/2014/2017, MongoDB
+• Development Tools: Visual Studio.NET 2005, Visual Studio.NET 2008, Visual Studio.NET 2010, Microsoft SQL Server Management Studio 2005/2008/2012/2014/2016/2017/2019, MS Office, Active Directory
+• Web Development: ASP.NET 2.0/ 3.5/4.5, .Net Core, IIS, JavaScript, HTML, DHTML, CSS, XML
+• Front-end technologies such as React, Angular, .NET, and VB.net and back-end technologies such as Java, C#, Laravel
+• Reporting Tools: Crystal Reports9/XI, SSRS, ComponentOne, DevEx.
+
+Here are some of my prior works:
+
+Rootines: https://www.rootines.app/
+Telemedicine Scheduling Software: https://www.ultravisit.com/
+Online loan application (Credit Star Funding): https://www.creditstarfunding.com/
+Enterprise property management system (Kolmeo): https://kolmeo.com/
+Booking platform for different events (Bokamera): https://bokamera.se/
+Listing site (Offrs): https://offrs.com/
+Housing services booking Platform (thsweb): http://www.thsweb.com/
+Inventory management software (Iconicus): https://iconicusdesk.com/myportallogin
+Ecommerce (Musicroom): https://www.musicroom.com/
+Fitness desk: https://fitnessdesk.in/
+
+In addition, I have more than 8 years of experience in web and application development and specialize in C#, MS SQL, Web Forms, ASP.NET Core, Blazor, Razor, MVC, Angular, Entity Framework, n-tier Framework, HTML5, CSS3, WebAPI, Azure, AWS, containerization, and Bootstrap.
+
+Thank you for your time and consideration.
+With Regards,
+Alois.
+
+-----------------------------------------------------------------------------------------------------------------
+https://mark-appleby.com/

@@ -1,0 +1,271 @@
+Company Game Development Profile: 
+https://docs.google.com/presentation/d/1cYIa7ujSNdQpNOmAMZnmp7Np3auvzrCr/edit?usp=sharing&ouid=110570040787589807975&rtpof=true&sd=true
+
+https://drive.google.com/drive/folders/1xKacuz0RNLDa4h77Eo84kRXy3ED8GDKc
+https://drive.google.com/drive/folders/1sQU6TnqUfEsFT1oYt4qDcIZZ5pJk3BLn?usp=sharing - Windows/mac/Multiplayer
+https://drive.google.com/drive/folders/1gu_tvlAyPd7Rt38n3WeM2THCWP5NMqqG?usp=sharing
+(AR)
+
+http://www.starkgaming.com/
+In December of 2019, Stark Gaming received an Epic MegaGrant for our work on CastleDay and Vertical Third.
+https://starkgaminginc.itch.io/squishems
+Squishems is our 2019 Unreal Engine MegaJam entry which is an online MerCat Brawler!
+
+
+* 3D interfact *
+https://lunafi.io/
+https://kprverse.com/
+https://www.niftables.com/
+http://robinmastromarino.com/
+https://visualcreatures.com/?section=page-footer
+https://www.caveworld.com/
+https://sirup.online/5th/
+https://radioactivecrocsclub.com/
+https://advanced.team/
+
+https://smartportfolio-alpha.vercel.app/
+http://armchair.visionexp.io/#/
+
+- Metaverse url
+https://utherverse.io/
+https://tcg.world
+
+WebGL Multiplayer ;
+https://photoncharactercontroller.herokuapp.com -- Multiplayer
+https://metamaskexample.herokuapp.com -- NFT
+play.pocketgodz.xyz
+https://ageoffarming.com/#roadmap
+https://avaxghost.com
+https://ethlas.com/app/play/ethlas_101
+https://cryptoracing.vip/game/?referer/&lan=en
+
+
+https://youtu.be/5wLWSxs-YGs
+
+👀👀👀👀  Apps
+https://apps.apple.com/DZ/app/id1628573383
+
+https://play.google.com/store/apps/details?id=com.netease.vr&hl=en_GB&gl=US
+https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO
+
+
+
+https://apps.apple.com/us/app/my-golf-3d/id512449614
+https://apps.apple.com/us/app/live-holdem-pro-poker-game/id513894363
+https://apps.apple.com/us/app/hyperbrawl-tournament/id1466782466
+
+https://store.steampowered.com/app/860510/
+https://store.steampowered.com/app/860510/Little_Nightmares_II/
+
+- Pixel Game
+https://play.google.com/store/apps/details?id=com.loongcheer.cindyz.minehuntertwo
+- Racing Car game
+https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM
+- Casino crpto Game
+https://play.google.com/store/apps/details?id=com.darizengames.cryptoslots
+- Fighting game
+https://play.google.com/store/apps/details?id=com.zitga.ninja.stickman.legends
+
+
+
+_____________________________________________________________________________________________________________________________
+
+Hello,
+
+I'm a developer with more than 12 years of experience and I have a development team and can deal with the most complex tasks.
+I checked your job description and can definitely help you with that.
+
+I have the necessary expertise with Mobile and Web development. I have good experience in Unity and C#, TensorFlow (especially for AR/VR projects and games). Almost all my AR/VR and game projects are based on Unity.
+
+If you could give me more details on the current technical challenges you face or the resources you need to push it further, that would be a good starting point. I will be happy to invest the necessary effort so that you could build up an impression about our capabilities and make sure that we are good to come on board. If necessary, I am ready to sign the NDA.
+
+It would be great to know how you envision the product scope, timeline, deliverables, and I can guide you on the development process.
+Also, I can provide detailed technical responses and guidance on a technical call.
+
+I'm ready to sign the NDA if you have one.
+
+Let's discuss the project in detail, feel free to book a timeslot that works for you: https://calendly.com/servreality/project
+
+Looking forward to your reply.
+_____________________________________________________________________________________________________________________________
+
+Hi,
+
+I am writing to submit a proposal for the Unity Project that you have listed.
+I am a Unity3D developer with extensive experience building 3D/2D games and AR/VR apps.
+Over the last decade, I have worked in the computer science space alongside my career in banking.
+
+I have roughly six years of experience in the Game and App development space and have created 75+ projects thus far.
+
+I have outlined my background and skillset below:
+
+3D/2D Game development: Unity3D, c#
+AR/VR App development: ARKit, ARCore, ARFoundation, Vuforia
+Multiplayer Networking: PhotonNetworking, PlayFab
+
+You can find a few of my recent projects below:
+
+https://apple.co/3n34Ygr
+https://apple.co/3n62lKR
+https://apple.co/3tKU7eY
+https://apple.co/3OvAaAO
+https://apple.co/3N7V5bG
+https://apple.co/3c7gGUY
+https://apple.co/3o8z5Uk
+https://apple.co/3RFzPOg
+https://apple.co/3z9AWON
+https://apple.co/3yM3FrJ
+https://apple.co/3AUisTG
+https://apple.co/3OahQfY
+https://apple.co/3RAEuRx
+https://apple.co/3yM62La
+https://apple.co/3Pfdu8o
+
+I look forward to connecting with you to discuss the scope of your project further!
+
+Best,
+Shayne
+
+_____________________________________________________________________________________________________________________________
+
+Hello, I have 5+ years of experience with Unity game Development and AR/VR app Development.
+
+
+- expert in AR/VR, Ads , UI/UX , REST API integration, GraphQL, with Unity C#
+- worked with NFT , Web3, Moralis and OpenSea API for crypto
+- Hands-on Mirror and Photon for Multiplayer Networking.
+- past project in Windows/mac/console build and game.
+- Knows maximum SDK and framework of Unity,
+- I am a quick learner of Code structure and get into the project.
+- Good control over Git
+- Worked with Slack and Trello/TeamUp/Aasana for project management
+
+-I own the following devices::
+- Macbook Pro laptop
+- Predator Windows / Linux system Laptop
+- Latest Android device:: One Plus Node
+- iPhone SE
+- Oculus Quest 2 recent version
+
+Here is our portfolio link
+https://drive.google.com/drive/folders/1sQU6TnqUfEsFT1oYt4qDcIZZ5pJk3BLn?usp=sharing - Windows/mac/Multiplayer
+https://youtube.com/channel/UCqzjuZBXHTa-QpGqUmizxIA
+
+Recent Experience
+https://play.google.com/store/apps/details?id=com.lejworks.drainball
+https://play.google.com/store/apps/developer?id=InTechual+Solutions
+https://www.anartcompany.com
+
+Thank you 🙂
+
+_____________________________________________________________________________________________________________________________
+
+Hi,
+
+I have strong experience with Unity3D/C# game development.
+Please take a look at my best project here: https://store.steampowered.com/app/860510/Little_Nightmares_II/
+I have reviewed your job description, and I think this project is perfectly matched my skill sets. I would like to provide the best solution for you based on the performed comprehensive experiences and knowledge.
+
+I am looking forward to hearing back from you soon.
+
+Regards,
+
+_____________________________________________________________________________________________________________________________
+
+Hello, thanks for the job description!
+
+I am a game developer with experience in Unity, AR, Unreal Engine, game development, VFX, animation, modeling, and entrepreneurship—publishing many games. I've worked as an Unity engine developer at Hexagon and have also helped to create the AR/VR specialization.
+
+I am passionate about developing mobile 3D applications and games—especially augmented and virtual reality related ones, fully native or built using Unity. I am also keen interest in computer graphics. These are my past projects attended:
+https://drive.google.com/drive/folders/1gu_tvlAyPd7Rt38n3WeM2THCWP5NMqqG?usp=sharing
+https://apps.apple.com/us/app/my-golf-3d/id512449614
+https://apps.apple.com/us/app/live-holdem-pro-poker-game/id513894363
+https://apps.apple.com/us/app/hyperbrawl-tournament/id1466782466
+
+Rest assured to get all the expected stuff including excellent professional service in a fast turnaround.
+
+I would be much obliged if we could have a call to discuss about this project.
+Sviatoslav
+
+_____________________________________________________________________________________________________________________________
+
+Hi,
+
+I am thrilled to review your job description because I am expert with mobile game development.
+
+I'm a professional mobile game developer who is experienced in C#/ Unity 3D as well as NFT/Blockchain technology.
+
+As for my services, I'm experienced with game server-side development, game client-side development, algorithm development, etc.
+
+I have vast experience in mobile game development and made over 20 games which fall in different categories for instance Simulation, Arcade, Racing, Hyper Casual, Casual, Puzzle, Quiz, Virtual Reality (VR), Augmented Reality (AR) with C#, Unity, C++, Unreal Engine, Java, .NET Core, and so on.
+
+These are a few my previous game projects:
+https://play.google.com/store/apps/details?id=com.netease.vr&hl=en_GB&gl=US
+https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO
+
+I cover all stages of game development from concepts to full-fledged game environments, interactive user interfaces, and other elements that will make your project stand out on the market.
+
+So, I'm really confident that I can fulfil your requirements.
+
+Cheers.
+
+_____________________________________________________________________________________________________________________________
+
+Hi, I have more than 5+ years of experience as a senior Unity Game developer. When I work for a compnay, My focus is on Unity, AR/VR, Metaverse P2E crypto game, Game AI & Physics, Pixel Game, HTML5 PlayCanvas WebGL, Cocos2D(Box2D, Tilemap), Game Design/development workflows.
+
+My programe languages
+HTML5,PlayCanvas,WebGL, three.js, Javascript / UnityScript, C#/C++, Objective C, Python, Java,Swift
+
+Main SKills
+- Experience in Game Mechanics and Game-play
+- Experience in Game Design Document (GDD)
+- Experience in both 2d & 3d Game, Pixel Game Programming
+- Experience in Designing Game GUI
+- Experience in 3rd party tools using Unity3d, blue print
+- Ability to work as a team member and also to lead one
+- Excellent Interpersonal communication skills, outstanding problem solving, and decision-making skills.
+
+Thanks & Regards
+
+_____________________________________________________________________________________________________________________________
+
+Hello,
+My name is Ihor, and I'm a gameplay/engine programmer who has just started working as an independent game developer, focusing on small or large games using the C++ / UE4 engine. I also work directly at Epic on UE4 engine development.
+
+http://www.starkgaming.com/
+In December of 2019, Stark Gaming received an Epic MegaGrant for our work on CastleDay and Vertical Third.
+https://starkgaminginc.itch.io/squishems
+Squishems is our 2019 Unreal Engine MegaJam entry which is an online MerCat Brawler!
+
+My key value is the approach to never give up, always keep learning, and leap over obstacles that pop up. The word "can't" is simply NOT in my vocabulary.
+Let's connect for more details
+
+Best Regards,
+Ihor
+
+_____________________________________________________________________________________________________________________________
+
+Hello there, I would love to help you with your project. I have over 5 to almost 6 years of experience in game development with Unreal Engine and Unity 3D. I have created a lot of projects from which I have published 8 games on Steam and Google Play Store. I have experience with Vuforia, photon network. One of my published games on Google Play Store, has Vuforia as I had to use the AR system to make it work, I can send a link if you want. If you are still looking for someone to do the job, reply back to me. Thank you very much!
+
+_____________________________________________________________________________________________________________________________
+
+We specialize in rapid prototyping using game technology. While it seems you may be looking for someone to do the entire project, we are convinced that starting with a prototype would be a great first step.
+
+
+Here's a brief overview of some of our experience which we believe would be relevant for this project:
+
+- Most of the time we prototype in C# (usually within the Unity engine), while we also work with other languages, such as php and MySQL for back-end development, and C++ for instance when making external code libraries accessible for use in C#.
+
+- Over the years, we’ve developed numerous mobile game prototypes – three of which are highlighted in the following blog post: https://previewlabs.com/mobile-game-prototypes/
+
+- We have been prototyping with Unity since Unity 2.x and are very familar with the engine. We have even prototyped directly for Unity Technologies to help them test their Entity Component System (ECS).
+
+
+Would you be interested in a call to discuss your project in greater detail? If you send me a message in response to this proposal we can find a time for a call.
+
+
+
+Kind regards,
+Bernard
+
+_____________________________________________________________________________________________________________________________

@@ -1,0 +1,75 @@
+Hello Hiring Manager!
+
+Thank you for this exciting opportunity!
+
+I've full experienced in Rust Solana Blockchain, Nft Smart Contract, Ethereum, Airdrops Bot, Solana Smart contract, Nft Marketplace, Smart Contract Audit, etc.
+
+- Solana smart contract optimization
+- Solana smart contract audit
+- Solana smart contract for DApp
+- Solana token development
+- Smart contract for Solana wallet
+- API integration
+- Creating web-based frontend to integrate with smart contracts (React/Typescript, Web3.js)
+- Backend Rust development using Candy Machine V2 on Solana network
+- NFT wallet development (Phantom, Solflare, Clover, Sollet)
+- Mintable token
+- Nft minting website development
+
+Looking forward to hearing your idea and/or business needs and help you build it!
+
+My availability is between 9 am~6 pm, EST, Monday through Friday, 40 hrs/week, full time.
+
+Thanks!
+Manuel
+
+================================
+Hello.
+I have read your requirement in the description carefully and have understood them.
+I have developed many Solana marketing sites, NFT minting sites and staking sites, smart contracts so I have rich experience in developing smart contracts using solidity
+Until now, I built ERC 721, ERC 1155 SmartContract and deployed it to the mainnet and the testnet using Truffle and Remix.
+And I built the front website for users to mint NFT and view NFT collections with React and web3.
+please check my previous sites(2D/3D)
+
+https://mysticbets.com/
+https://www.shapespark.com/industries-exhibitions-and-museums (3D)
+https://defidinos.com/
+https://www.neckville.io/
+https://www.noblethieves.world/
+https://www.hapebeast.com/
+
+I promise to keep good communication and high quality work, instant update.
+I would like to discuss further, I am ready to start working right now. Looking forward to having a chance to work with you. Thank you very much. Best regards
+
+================================================================
+Hello.
+I read your job description very carefully and am interested in your project.
+As I understand, you need a Solana Developer who has experience in candy-machine and anchor framework.
+I am a blockchain developer, have 6 years of experience in blockchain technology and over 3 years of experience in Solana blockchain.
+I am very familiar with Solana Rust programming and anchor framework and have strong experience in candy-machine and metaplex.
+I also have experience in Token creation and NFT minting, marketplace, Token vesting, NFT staking and breeding and DAO.
+In other words, I have required skills and can finish your project with high quality and reasonable price.
+My previous works:
+https://luckylemurs.com
+https://www.potbr.com/
+https://badasskangaroos.com/
+I think, it won’t be big problem to finish this project.
+I am looking forward to hearing from you.
+Best regards.
+
+=================================
+
+Hello!
+I have read the job description and got very interested in working on this project as it perfectly fits in my skill stack.
+I have developed many rust programs on Solana for spl-token, token lending & borrowing, token vesting, presale, staking, farming, nft minting, staking, breeding, custom auction, and so on.
+And I have rich experience in development programs for NFT projects(nft minting, nft staking, nft breeding).
+Please check out my recent projects to get a rough idea of my relevant skills.
+
+http://defi-testing-12345.herokuapp.com/
+https://defi.invokersnft.com/
+https://www.gorillagalaxy.io
+https://mmo.invokersnft.com/
+
+The best quality, accurate timeline and polite after-service are what I guarantee to my clients.
+I can start the work right now!!
+Sincerely

@@ -1,0 +1,582 @@
+************************************************Github****************************************************
+https://github.com/Baskerville42
+https://github.com/sysgears.
+https://githhub.com/gitakileus
+https://github.com/Florida88
+https://github.com/ravi-webdev
+https://github.com/fkvivid
+https://github.com/mcelikx
+https://github.com/iamtayyabraza/
+https://github.com/fullstackdeveloper710
+https://github.com/dev-expert
+https://github.com/Aashish56
+https://github.com/haris812
+https://github.com/leo8545
+https://github.com/karlen92
+https://github.com/procoders
+https://github.com/jenishmodi88
+https://github.com/remotecraftsmen
+https://gitlab.devit.group/code-examples
+https://github.com/jam-black-public?tab=repositories
+https://github.com/wondercrazy15
+https://github.com/kiranmistary0697
+https://github.com/freelancework00700
+https://github.com/xmpppargat
+https://github.com/kiranfidelthink
+https://github.com/maksfrontdev
+https://github.com/mangoitsols/
+https://github.com/varun2013/React_Typescript_CodeSample
+https://github.com/edotnet
+https://github.com/OlekZ-JSN
+https://github.com/owen241
+https://github.com/farhantariq12b
+https://github.com/YevgenChop/kanban-front
+https://github.com/arunantony
+https://github.com/Vladyslav0060
+
+
+
+
+
+
+
+***********************Describe your approach to testing and improving QA*********************************
+
+
+
+___________________________________________________________________________________________________________
+
+I prefer to write the unit tests in the development process.
+
+First, I write the unit tests that should cover the functionality's critical parts (like authentication, form validation, payment flow, etc …). Then I cover with unit tests less critical stuff (if there is a time for that) to make sure that app is fully covered with unit tests.
+
+Also, I prefer to use "pre-push" the Git hooks, which checks if all tests and linters pass successfully.
+
+And last but not least, when feature development is in process, I check the UX if it is really comfortable for the end user, and if all failure cases are covered (like the required form fields or failed connection, etc …).
+
+To achieve all of that, I use tools like Jest, React Testing Library, linter, husky, Chrome DevTools, etc.
+___________________________________________________________________________________________________________
+
+1. TDD (Test Driven Development) - We follow the TDD approach where the entire functional code is covered thru its unit test cases and all test cases must pass before the code/build is deployed in a production environment. Functional code is written as we keep populating the test cases until the unit test case covers the functional use case requirements.
+Sample Test case: https://bit.ly/3g0WJMN  
+
+2. Automated QA - With the use of QA automation (JS scripts) we can ensure that the application doesn't break anywhere in the workflow with the newly introduced features or modification of any code to support new feature deployment or bug fixes.
+
+3. CD (Code Deployment)- With the continuous deployment we set up the pipelines in our DevOps framework to perform automated deployments on the respective environment (QA/STAGING/PROD) without the need of a manual deployment process. Before deployment, we can set up the conditions to ensure all automation QA test cases are passed which again leads to regression testing, and deploy the stable features on the releases.
+
+These are the steps for improving QA approach :
+
+1. Design review - this activity aims to verify that the software Design is written in conformance with the design standards, if any, adapted for a project and module/application is implemented as per quality requirements.
+2. Project code review by peers
+3. Unit testing - Unit testing is part of the software development life cycle that ensures that each piece of code that has been written performs the function that it is designed to do. This process comprises of the testing performed on the most basic item of the software project i.e. the individual code components to uncover the errors and to ensure that this is meeting all the specifications as described in the SDD (Database Design, Architecture Framework/ Flow Charts, and others).
+4. Test case design and data selection
+5. Module/ Integration testing - This process comprises the tests performed at the sub-system level to uncover errors related to interfaces among subsystems/software modules. Module/Integration Testing is a level of the software testing process where individual units are combined and tested as a group.
+6. Automation testing (as required) - a test strategy is built and we develop an automation script and make sure all test script is running fine and should be stable enough.
+___________________________________________________________________________________________________________
+
+For testing my own code I have several main rules:
+Check all regular (positive) scenarios.
+Check all possible negative scenarios.
+Check all edge cases.
+
+Also, I cover the code with the unit, integrational, end-to-end tests using Jest, React Testing library, Cypress.
+___________________________________________________________________________________________________________
+
+It depends on the type of QA testing which is required on the project, time, priorities. It may be regression testing when firstly I create the test plan with basic test cases. Secondly, I do this regression testing each time before the release to check that all basic features work as expected. If some features are changed/added I have to update the test plan with test cases. It may be testing for some specific task. In this case I plan some checklist, test cases how I will verify the option. It may be testing some bug fix. In this case I have to check the scenario that produces this bug.
+
+___________________________________________________________________________________________________________
+
+I think that writing unit and e2e tests is the best approach in the long run. It requires a little bit more time and resources in the beginning of a project, but drastically reduces the amount of time later in development. F .ex. I had a task to change some piece of code that was presented almost everywhere around the app. My initial estimation without unit tests was about 40 hours, because it was a very big project and I'd have to check if everything is alright manually, but with the use of unit tests I was able to reduce this time from 40 hours to 10 hours.
+___________________________________________________________________________________________________________
+
+(1)Methodical approach, which is predicated on Fail Test Cases.
+(2)We create Strategy then test the Products and Applications.
+(3)Create Test Sheet-Create Test cases
+(4) Cross Device Testing
+(5) Bug Fixes
+(6) Retesting
+
+___________________________________________________________________________________________________________
+
+The first step in testing and improving QA is to establish clear goals and metrics that define what success looks like for the project. This can include defining the key performance indicators (KPIs) that will be used to measure the success of the QA efforts, such as the number of bugs found and resolved, the percentage of defects found before release, and the overall quality of the product or service.
+Once the goals and metrics have been established, it is important to develop a comprehensive testing strategy that includes both manual and automated testing methods. Manual testing involves having human testers execute test cases and identify defects, while automated testing relies on tools and scripts to execute test cases and compare the actual results with expected results.
+Continuous testing is another important aspect of QA, as it allows for early detection of defects and ensures that the product or service is tested throughout the development process. This can include running automated tests as part of a continuous integration/continuous delivery (CI/CD) pipeline, as well as conducting regular code reviews and performing regular audits to ensure that the testing processes are effective.
+___________________________________________________________________________________________________________
+
+My approach is e2e testing based on the Cypress.js service.
+In my opinion, the most important point of QA is testing top-level business features using E2E
+tests, so I can be sure that the business logic that the project implements works and does not regress with new features. But it is worth noting that this approach is not 100% coverage
+for security holes since everything is tested together (front and back) and in addition to the
+basic E2E tests, we can also separately cover specific places in the back API with unit tests to
+be confident that, for example, the API works correctly from a security point of view and does
+not give out unnecessary data, no matter how the request is configured.
+___________________________________________________________________________________________________________
+
+While writing the code I use debugger for code tracing or just place console logs, it depends on my needs.
+In my opinion, the best way to test the code is to use a combination of unit testing, integration testing, end-to-end testing, mocking/stubbing techniques and CI/CD. While testing the already written code, I use many tools, there’re some of them:
+- [ ] Unit, Integration testing: Mocha, Jest for Node.js; Enzyme, Jest, React Testing Library, Vitest for React.js
+- [ ] End-to-end testing: Cypress
+- [ ] CI/CD: Gitlab CI/CD, Jenkins
+- [ ] Mocking testing: Jest
+It may also be a good idea to use Puppeteer for automated browser tests. To test an app on high loads or to see how it reacts on bulk requests, I use tools such as Load Runner, Artillery. To test how application works on different browsers, I use a BrowserStack tool. In addition to this, I use Postman utility to test my endpoints and see the reactions on different request entries.
+
+___________________________________________________________________________________________________________
+
+
+
+**********************************************COVER LETTER**************************************************
+
+___________________________________________________________________________________________________________
+
+Greetings, With good hands-on experience in developing complex enterprise-level applications for different business domains such as E-commerce business, Medical, Social, Video, Health & Fitness, Banking, Real Estate, etc. using React.js as front end and Node/PHP/python as Back End. I am confident in taking up this project ahead. Though, sharing the domain/use case of the application will allow me to determine what exactly you have in mind in terms of development, which in turn will help me to share my 2 cents as well.
+
+Experience in setting up Restful architecture considering Node, PHP(Laravel) as Backend integrated along with Angular or React as front-end frameworks in the 3-tier software application architecture. In line with third-party experience well versed with a stripe in many finTech and Healthcare applications where transactions are part of the flow also implemented other payment gateways like Paypal, Braintree, Authorise.net, Paystack.com, etc. Experienced with cloud messaging APIs like Twilio/talkbox/ Firebase and custom cloud chat using socket.io & rocket.io and also in Real estate.
+
+Some queries/assumptions which may be discussed over the call are:
+ 
+1. Can you share more details on the database and cloud infrastructure being used?
+2. Are you looking to build MVP (Minimal viable product)/ Proof of concept, or do you have some other idea.?
+3. Will there be any reference application that I can review and understand features?
+
+1. React JS integration with Node.js/Python (Django/Flask)/PHP back-end.
+2. Used REACT MVC Framework in the development of the web application to bind the data/model 
+3. Worked on the latest React 16 along with ES6 features.
+4. Good knowledge and working experience with Typescript as well.
+5. Experience working with Redux, React Navigation, Redux-thunk, and React routers.
+6. Experience with ORMs as used in Laravel and also with the sequel which is Typescript and
+
+Other technical expertise for your consideration:
+1. Backend - Java/Python/NodeJS/PHP
+2. Frontend - Typescript/ReactJS/AngularJS/VueJS/HTML/CSS
+3. Database - RDBMS (e.g. MySQL, SQL Server, Postgres) and NoSQL (e.g. MongoDB)
+4. REST API -  Have strong experience in integrating and writing with REST API services
+5. Analytics - Data analytics using AI/ML
+6. Experience with GitHub and Project Management tools e.g. Jira, ACE, and Slack for communication.
+
+Some References for your perusal, please.
+
+https://www.3rdshop.com/ It's an e-commerce marketplace for luxury wear, where different designers can upload their products and a buyer interface to purchase them. This has been implemented with shipping APIs like FedEx, and UPS along with PayPal and Stripe Payment Gateway.
+
+https://tradezero.co is stock trading software similar to Robinhood (Commission-free Stock Trading & Investing App).  Mobile app provides an opportunity to trade a variety of securities: stocks, ETFs, mutual funds, and options. With this platform, users can learn to invest in the stock market as they build out their portfolios and can invest in the stock market for free using the platform.
+
+curiodigitaltx.com A digital therapeutics (DTx) platform that delivers evidence-based therapeutic interventions to mental health patients. It gathers, studies, and analyses multiple data points of a patient’s physical, mental, and behavioral traits during the treatment.
+
+DocsInk Connect: HIPPA secure messaging, online consultation, on-call scheduling, and Interactive real-time calling in the mobile application.
+iOS: https://apple.co/2TLuSsW 
+Android: https://play.google.com/store/apps/details?id=com.healthapp.docsink&hl=en_IN&gl=US
+
+  
+Hope the above credentials will help you to judge my capabilities.  I am keen to take this discussion forward.  Please let me know the next step call/chat/interview, I will make myself available at a mutually convenient time.
+
+Best Regards,
+
+___________________________________________________________________________________________________________
+
+Hello!
+
+It seems my profile is perfect for your needs! As a Senior Full-stack Software Engineer, I have 4+ years of hands-on experience efficiently developing custom web applications, services, and cross-browser solutions using React, Node.js and Express! Also, my skill set makes it possible to implement an impressive, user-friendly interface and stable back-end even with high-level requirements.
+
+Here is more about my expertise:
+- Designing and developing client-side applications using React / Redux / Next.js / React Native / GraphQL.
+- Implementing custom interfaces with HTML, CSS/SCSS/SASS, Ant Design, Bootstrap and Material-UI.
+- Developing server APIs for web and mobile clients using Node.js / Express / NestJS.
+- Troubleshooting interface software and debugging application codes, performing code reviews.
+- Front-end application testing.
+- Optimizing internal processes.
+- Following the clean code approach (I added some code samples to this letter).
+- Working closely with stakeholders at every step, managing development.
+- Providing ongoing support and maintenance for products after release.
+- Working with Agile development practices.
+
+Also, I have experience working with international remote teams with daily meetups, so I know how to build clean and straightforward communication, be an effective team member, and see beyond the obvious. I believe my collaboration, innovation, and problem-solving abilities will support and drive your continued organizational success!
+
+I'd like to learn more about your project, team, structure, etc. What time and date works best for you to schedule a call and discuss all the project's details?
+
+Looking forward to hearing from you,
+___________________________________________________________________________________________________________
+
+Hi
+
+I have just read your job post and your project fits my skills very nicely!
+I'm a Front-end JavaScript developer with 5 years of commercial experience.
+As a React Developer, I possess expertise in React.js, Next.js, TypeScript, JavaScript, GraphQL, Firebase, RESTful API, and Redux (Saga&Thunk). Additionally, I excel in Designing a Pixel Perfect UI using CSS3/SAAS/HTML5, MUI(Material UI), Tailwind, and Bootstrap. etc...
+Furthermore, I have worked with various Third Party's APIs such as Mapbox, Google Maps, Django, GAnalytic, Twilio, Stripe, and social media
+I attached below a recent React.js project with which I worked on:
+Otherweb - it's the application for Smart news search
+https://otherweb.com/
+PriceEasy - it's the application the ultimate solution for fuel pricing management
+https://fno-sf.zdaly.com/
+
+Hope to move forward with you!
+
+___________________________________________________________________________________________________________
+
+Hi Client, I love to join your Team and help you with building Front-End using React and Tailwind CSS. I have been part of several ''React/Node.js/Express.js'' applications from scratch, but at the same time, I manage and update the client’s existing projects also as I have outstanding debugging skills. I am a "Full-Stack" developer, having more than 6+ years of experience in building 👨‍💻 Web 📱 Mobile applications that match client needs.
+
+----> CHECK BEST WORKS:-
+https://www.keela.co
+https://www.jrzy.com
+https://www.Edprime.co
+https://www.quizlet.com
+https://communitydashboard.vegas/economicoverview
+https://nvmedicalcenter.org/nevada-healthcare-statistics/
+https://lvgea.org/data-portal/regional-overview
+https://test-tasl-tanmoy.vercel.app/dashboard
+https://patients-five.vercel.app
+
+-----> I AM A GOOD FIT FOR THIS ROLE BECAUSE:-
+(1) I Will help you with building new features and enhancing the User Experience.
+(2)I Possess 5+ Years of Experience and help you in Integrating APIs and Integrating with React Front-End.
+(3)I Possess 6+ Years of Experience Developing a React frontend using Tailwind CSS.
+(4)I Possess 6+ Years of Experience and help you in Integrating the Existing Back-End apis with the Front-End.
+(5)I Possess 6+ Years of Experience and help you Creating New Features and Enhance the User Experience.
+(6)I Possess 5+ Years of Experience and help you with Writing Well-Structured, Efficient Code.
+(7)I Possess 5+ Years of Experience in Testing and Troubleshooting code.
+(8)I Possess 5+ Years of Experience and Help you with working with other developers and designers to Ensure Successful Implementation.
+(9)I Possess 5+ Years of Experience with React and Tailwind CSS.
+(10)I Possess 5+ Years of Experience in HTML, CSS, and JavaScript.
+(11)I Possess Excellent Problem-Solving, Analytical Thinking, and Communication Skills.
+(12) I Possess 5+ Years of Experience with Node.js and Express.
+
+Skills:
+======
+- React Native, React, Redux, Vue2, Typescript, Express.js, Nest.js, Next.js, Three.js, D3.js, JavaScript, CSS, Bootstrap, Tailwind, MySQL, PHP v5.x, and MySQL
+- I have strong knowledge of Laravel, Node backend development, and API integrations.
+- Experience integrating with RESTful API/JSON API/Payment Processor API/Social Media API/Google Map API/ Cloud
+- I am well known to work with AWS Environment.
+- Experienced in integrating 3rd party libraries.
+- I have strong knowledge of MySQL, MongoDB, and other databases.
+- I can help publish apps to Google Play and Apple stores etc.
+
+⚡ My deliverables are compiled by using Best Practices, Clean, Maintainable, and Optimized.
+
+
+I have been involved in projects which used all benefits and advantages of web 💻 and mobile 📲 technologies. Some of them were Huge and Complicated, including lots of libraries, frameworks, and technologies.
+
+Looking for a Long term Business Relationship with you.
+
+Thanks & Be safe,
+
+___________________________________________________________________________________________________________
+
+Dear Client,
+I have gone through your project requirement that you are looking for an experienced React developer to join your team and help to build a simple front using React and Tailwind CSS and experience working with the latest web technologies. I proficient in both React and Tailwind CSS. Kindly share with me more details about your project. I am ready to start asap.
+
+**I will share my resume during the interview.**
+
+**Development Skills:**
+Cloud. : AWS, GCP
+Server Side : Node.js, Express.js
+Front End: React JS, JavaScript, jQuery, HTML5, CSS 3
+Database: MongoDB, SQLite
+Operating System: Windows, Linux, Mac.
+Production Tool : NetBeans, Sublime, Notepad++, Gedit , Git, SVN
+
+**Here you can check my similar work samples below:**
+1) https://hipla.io/
+2) https://www.joinportal.com/
+3) https://cyberpal.io/
+4) https://www.1knetworks.com/
+and many more ...
+
+**Why Should you hire me?**
+- On-Time Delivery
+- Full-Time availability
+- Fluent English Communication
+- Client Satisfaction is my 1st priority
+
+**Looking forward to your positive response and hoping for a long-term business relationship.**
+
+Best Regards,
+
+___________________________________________________________________________________________________________
+
+Hello! I am Karlen, Senior Software Engineer with 9+ years of experience full stack development.
+Proficient in cloud architectures, microservice architectures, cloud cost optimization, cloud security etc. I would really like to work with you and make my contribution. I am experienced in all the mentioned technologies: JavaScript, ReactJS, Node.js, Typescript.
+
+My tech stack in details:
+
+• Cloud Platforms - AWS, GCP
+• Databases - PostgreSQL, DynamoDB, Elasticsearch, Redis, MongoDB, AWS Cloud search, Firebase
+• Languages - Node.js, Python, Java, C++
+• UI - ReactJS, Redux, Redux-Saga, Redux-Thunk, Svelte
+• Datalake - AWS Quiqsight, AWS Athena, AWS Glue, AWS S3
+
+I have more than 100 successfully completed projects, and will send some project or code samples if needed as well. You can also view my portfolio on my profile and reviews.
+
+Some projects I have worked on:
+
+https://refactory.dev/
+https://untangl.net/
+https://www.fibbl.com/
+https://opportunitydb.com/
+https://wealthchannel.com/altsdb/
+
+I’m interested and available to start immediately. Let’s schedule a meeting today or tomorrow.
+
+Best Regards,
+
+___________________________________________________________________________________________________________
+
+Hello!
+
+I am an expert in React and Node.js development, ready to join your team and help you to build a simple front using React and Tailwind CSS, Let's have a quick call and discuss your project in detail.
+
+I am a motivated and creative problem solver, and I am always looking for ways to improve the code and user experience. I am confident that I can contribute significantly to the success of your team and help you meet your goals.
+
+please have a look at my apps which are built in Node.js " https://tupaia.org" and React "https://www.tyremax.co.nz" So, I can surely help you with this
+
+I have 5+ years of experience in React, Node.js, API JavaScript, MongoDB, CSS, HTML, ExpressJS, TypeScript, and Tailwind CSS.
+
+Examples of my React and Node.js work done:
+https://www.tyremax.co.nz
+https://tupaia.org
+https://billdr.co
+https://www.tunepays.com
+https://www.porsche.com
+https://netikino.ee
+
+In my previous working years, I have finished many successful projects with 100% customer satisfaction. What makes me better than others is my punctuality and honesty. I would never accept a job proposal until I’m confident of making it successful.
+
+Thank you for taking the time to review the letter. I’ll look forward to hearing from you for further process.
+
+Thanks & Regards,
+
+___________________________________________________________________________________________________________
+
+Hello, Thank you for checking my proposal.
+
+I am a highly motivated Senior Full Stack Web Developer. As a Full Stack Developer, I am comfortable with both front-end and back-end coding languages, development frameworks, and third-party libraries. I am also a team player with a knack for visual design and utility.
+
+My Skills:
+• 5 years of professional front-end development experience.
+• Proficient in JavaScript/TypeScript, HTML, CSS, React, Next.js, Vue.js, Angular.
+• Experience in Node.js, PHP, Laravel, Python, MySQL, MongoDB, GraphQL, and Postgres
+• Experience in working with one or more of the following cloud platforms: AWS, GCP, Azure.
+• Professional experience in working with product and design (UX/UI) following an agile software development workflow.
+• Knowledge of multiple back-end languages (e.g. C#, Java, Python) and JavaScript frameworks (e.g. Angular, React, Node.js)
+
+Please check my previous projects:
+https://www.brex.com/
+https://www.kosma.com/
+https://www.wealthsimple.com/
+https://fundrise.com/
+https://yeticycles.com/
+
+Right now, I am available to start working on your project. Looking forward to hearing from you soon.
+Best.
+
+___________________________________________________________________________________________________________
+
+Hello, I'd like to share my pertinent React/Tailwind CSS experiences in which I created visually appealing and responsive user interfaces, Here are some
+* ResumeDone: https://resumedone.co
+* NinjaVan: https://www.ninjavan.co/en-sg
+* QMS Sports Trading Desk: https://tradingdesk-uat.gomeekisystems.com/login
+
+As a Sr MERN Fullstack developer, I've more than 5 years of working experience with React, Vue, JS, HTML, CSS, Node.js, Express, TS, MongoDB, testing, troubleshooting, integrating APIs and writing neat, well-structured, maintainable, and efficient code.
+
+I am well-versed in all aspects of the technology, including database design, server-side and client-side development, and deployment. In addition to my technical skills, I have excellent communication, problem-solving, and collaboration skills and can work well with remote teams.
+
+If any of the above interests you, please let me know when you can speak this week.
+
+Best Regards,
+
+___________________________________________________________________________________________________________
+
+Hello, I am excited to apply for the React Developer position you have advertised. I have over four years of experience working with React and Tailwind CSS, and I am confident that my expertise aligns with the requirements of the role. I am skilled in working with Node.js and Express, and I have successfully integrated multiple APIs in my previous projects. Additionally, I am proficient in HTML, CSS, and JavaScript, which enables me to write well-structured and efficient code.
+
+As someone who values communication and problem-solving, I am confident in my ability to collaborate effectively with designers and other developers to ensure successful implementation. I am eager to take on new challenges and create new features that enhance the user experience.
+
+**Please consider the following project links as my portfolio.**
+
+1] Rightful: https://rightful.com.au/ FE: ReactJS, BE: Python
+2] Sendatradie: https://www.sendatradie.com/ FE: ReactJS, BE: NodeJS
+3]Thought cast owners: http://thoughtcastowners.com/ FE: ReactJS, BE: NodeJS
+4] Homeez: https://www.homeez.com/ FE: ReactJS, BE: Python
+5] Broytekart: https://broyte.no/ FE: ReactJS, BE: NodeJS**
+
+I have attached my CV, which showcases my past work and demonstrates my proficiency with the latest web technologies. I am excited about the opportunity to join your team and contribute to the development of your web application.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+
+Awaiting your affirmative response.
+
+Sincerely,
+
+___________________________________________________________________________________________________________
+
+**Similar Portfolios from JavaScript/React.JS**
+https://jane.com/ (React, NEXTJS)
+https://yourdoctime.com/ (React, NEXTJS)
+https://www.futurelearn.com/ (NodeJS)
+https://www.helperplace.com/ (NodeJS)
+https://www.artsy.net/ (Nodejs,ExpressJS)
+https://www.godssimpleplan.org/ (React.JS)
+https://www.critraining.com/ (React.JS)
+https://www.mysticsense.com/ (Built using React.js, Laravel, MongoDB Stacks).
+
+
+Welcome,
+
+My name is Ranjeet. I am a Full Stack Web Developer(Mern Stack). I'm a graduate & learnt Software Engineering from Top Universities of India. I have almost 5+ years of experience in JS/MERN/React.JS. I'm an expert in creating complex websites(front end + back end) & converting any website design to a real website. My created websites are 100% responsive and able to adjust their size and font according to any display. My code is 99% error-free and very simple to understand for other developers. I can complete projects very fastly according to customer requirements & needs.
+
+**Services:**
+- Complete Website Development ( backend + front end)
+- Create front end of the website
+- PSD, Adobe xd to Html
+- Figma, sketch, or any design to Html
+- Landing Page Development
+- HTML Email
+- Front End Bug fixes
+- Creating Animated Preloaders for Websites
+- To Make a Website Responsive & compatible with every browser
+.....................................................
+**Skills:**
+- HTML 5
+- CSS3
+- JAVASCRIPT (ADVANCED ECMASCRIPT)
+- BOOTSTRAP 3/4/5
+- JQUERY
+- SCSS/SASS
+- Node JS
+- EXPRESS
+- MONGO-DB
+- REACT
+- ETC.
+.....................................................
+**Other:**
+- Perfect English (Both written and oral)
+- Creative Thinking
+- Independent
+- Available for specific time zone
+- Sharing Progress of Task on Daily Basis ( for long projects )
+
+Let's get in touch and discuss your project! I really appreciate your time reading my response to your job post :)
+Thanks.
+
+___________________________________________________________________________________________________________
+
+Hi, I'm a Senior full-stack developer with 12 years in full-stack commercial development. I have excellent JavaScript/Python (+frameworks, libs, and DBs'), and other knowledge, and build multiple tech-complicated web apps. Have huge experience in AWS/GCP serverless architecture. I would love to hear details about your project and generate some ideas for you or give a rough estimate.
+
+Here are a few examples of my work examples (React JS + Next JS + Typescript + Node JS +Python + Firebase+ AWS Lambda+ HTML/CSS (Bootstrap/Tailwind CSS)) below:
+https://theonlysky.com https://winter.theonlysky.com/ - sport booking SaaS eCommerce/CRM system
+https://rentbetta.com/ - apartment booking SaaS eCommerce/CRM system
+https://meetkasper.com - health care eCommerce SaSS platform
+https://justhome.co/ - a fintech startup
+https://indexer.xyz/ - NFT platform
+https://gomonday.se/ - Job board with own CRM system
+
+My core technologies stack:
+- for Back End: Node JS/Next JS/Express/Python/Django/Flask/MongoDB/PostgreSQL/GraphQL/MySQL/RedisStack
+- for Front End: React JS/TypeScript/Redux/Mobx/GraphQL Apollo Client
+- Mobile development: React Native
+- Servers: AWS/Google Cloud/Digital Ocean/Firebase
+
+I also have my own team who can join me and we can collaborate and fast deliver projects.
+
+Why should you choose me? I am Mr. Wolf (Pulp Fiction) from IT - I solve problems, lol. Due to my experience, I will make my work to life with high-quality code in a shorter work time than guys are working for cheaper.
+
+Let's hop on a short call or chat to talk about the project. What free timeslots do you have for it?
+Best regards,
+
+___________________________________________________________________________________________________________
+
+Hello!😀
+
+As a Senior Full-Stack React/Node.js developer well-versed in cutting-edge React, Node.js, TailwindCSS, TS, JS practices, I have the necessary skills (pls, look at https://piedwork.com) to be a good fit:🎯
+
+✅ 9+ years of experience with React.js, Next.js, Node.js, JavaScript, TypeScript, HTML5, CSS3 etc.
+✅ Prior React/Node.js projects, where I was responsible for front-end as well as back-end development:
+
+🔸 https://piedwork.com - a SaaS platform which allows to keep track of all company resources such as employees, managers, invoices, payments, etc. and keep everything in one place accessible by the managers accordingly. Some of the main features I developed are:
+- automated invoice system
+- accurate statistic and data blending
+- time tracker
+- current project dashboard
+- employees database
+- payment system
+- API integration etc.
+
+🔸 https://knowi.com - a BI platform that unifies analytics and business intelligence for NoSQL data, SQL data, and everything in between.
+
+🔸 https://embedify.io - a SaaS platform which helps to make the process of creating new pages much easier with a single link and Google Doc page. The project has been developed in an Agile team.
+
+🔸 https://bluemeg.com/ - SaaS provider of cloud-based entity management & corporate governance solutions.
+
+My core tasks were: to build a highly-responsive, web-based User Interface; optimize speed and security; add new features, integrate APIs; conduct unit testing. I was using the latest React approaches (functional components over class components; higher-order functions to keep it DRY; proptypes; keeping components small and simple; code testing) etc.
+
+My skill set:
+✔ Javascript, Typescript, React / Next.js (Redux, Saga, Hooks, CSS, CSS modules, Styled components), Angular 2+, Vue.js / Nuxt.js (Vuex; Vuetify)
+✔ Node.js, Express.js, Nest.js with complex library (Bull.js for jobs etc)
+✔ Java, Spring Boot
+✔ Go (Gin, Echo)
+✔ Ubuntu, Docker, Docker-compose
+✔ HTML5, CSS3, SCSS, TailwindCSS
+✔ API (Restful, RPC, GraphQL)
+✔ Using design libraries like Material UI, Ant design, Native design by blocks and flags etc.
+✔ Testing (Mocha (Chai, Sinon), Jest, Cypress)
+✔ Сommon front-end development (Babel, ESLint, Webpack, etc.)
+✔ Databases - PostgreSQL, MongoDB, MySQL/MariaDB, SQLite
+✔ VCS: GIT
+✔ Familiarity with Agile development lifecycle
+✔ Firebase, ag-grid, ad-chart etc.
+
+🔹 You’ll not only receive end-to-end development of your web app from scratch, development of back-end components, and connection applications with other web services, but also deployment and maintenance of network apps, troubleshooting interface software, debugging app codes, documenting front-end codebase, support of the front-end developers by integrating web-based applications. Please, take a glance at the attached CV and code sample so as to verify my skills.
+
+🔹 By the way, my English is Fluent. I’m available for a long-term full-time project, Test task and Immediate Start.
+
+Will it be convenient for you to chat one of these days?
+
+___________________________________________________________________________________________________________
+
+Hello,
+
+After completely reading your provided job details, I would love to join your team as an experienced (React+NodeJS) Developer, I am sure that I can definitely help you to build the front side of your project using React and Tailwind CSS as per your needs and requirements.
+
+I’m sure that I can definitely help you to bring your vision into reality by developing your product.
+
+== Let me address all your Requirements ==
+
+== I am proficient in ==
+
+- Front-End: React, TailWind CSS, HTML, JavaScript, ExperessJS, etc.
+- Back-End: NodeJS, NestJS, RESTful APIs, etc.
+- Database: MongoDB, NoSQL, MySQL, GraphQL, etc.
+- Serverless architectures: AWS, Firebase, and Google Cloud.
+
+- On behalf of coding standards, I always write clean, robust, solid, usable, and well-tested code. I have a keen eye and attention to detail, and I always make pixel perfect design.
+  
+- I am proactive and performance-driven, always striving to unblock myself and never afraid to ask/tell others what I need to get the job done I’ve been asked to do.
+
+- On top of that, I would like to update you that I have great communication skills as well as I am fluent in English (both verbal & written) and have extensive experience working collaboratively in remote teams. So I am really very excited about working with your dynamic and innovative team.
+
+I just don’t want you to accept my words. Let me show you some examples of React and NodeJS projects, which I have developed in the past. It will help you evaluate my capability and experience.
+
+► React Projects:
+===============
+- https://www.conduiit.app
+- https://www.dripshipper.io/
+- https://giftcardsby.com
+- https://daredrop.com
+
+► NodeJS Projects::
+=================
+- https://www.theknot.com
+- https://roll-26021.web.app/#/home
+- https://dataprime.ai
+- https://fintwit.ai
+
+Other than this I have developed many web applications for my clients but because of NDA, I cannot disclose more applications.
+
+Looking forward to hearing back from you!!
+
+Thanks & Regards.
+Sairam
+
+=> Approach to the Job:
+====================
+It would be really great if you could provide me with some more details of this project like a detailed specification document, rough wireframe, etc. So that I can have a clear understanding of the needs for the project to freeze the scope of work and provide you with an accurate estimate price quote.
+
+If you have any questions, please feel free to contact me and let me know your thoughts so that I can check and give you answers and clarification accordingly.
+
+Moreover, I would love to discuss your requirements and concept further on call to get things more clear about this project.

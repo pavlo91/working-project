@@ -1,0 +1,448 @@
+_________________________________________________________________________________________________________
+
+Thanks for stopping by the Jarret Profile!
+I' ve been programming since the age of 12.
+After that,I've been learning programming for 4 years at the State University of New York, with about 4 years of working experience.
+I currently am working as a full stack developer with a tech stach that involves Html, Javascript, NextJS, Ruby, React, Node and Python.
+I have been serving my clients with the idea that meet their purpose, with Follow principle.
+
+♥ ♥ ♥ ♥ ♥ quality + punctuality + confidentiality ♥ ♥ ♥ ♥ ♥
+
+▲. FrontEnd
+✔️ HTML CSS JavaScript TypeScript ES5/ES6 JQuery Shopify
+✔️ React Angular Vue NextJS VanillaJS
+▲. BackEnd
+✔️ Python Ruby PHP
+✔️ Laravel codeigniter ASP.NET
+▲. Desktop Application
+✔️ C C++ C#
+▲. Mobile Application
+✔️ Android Ionic, IOS, IPhone
+✔️ ReactNative
+
+_________________________________________________________________________________________________________
+
+7+ years experience in Full-Stack web development, and a variety of successful web projects (examples can be provided).
+
+Currently, I am looking for a new challenging project.
+
+I am highly specialized and experienced with:
+— PHP, OOP
+— Laravel (v. 4.2-9.0)
+— JavaScript, TypeScript
+— Vue.js, Vuex, Vuetify, Nuxt.js
+— React.js, Redux, Next.js
+— Angular.js, ES6
+— Node.js (Express, GraphQL)
+— AWS, Docker
+— APIs
+— MySQL, MongoDB, MariaDB, Redis
+— HTML, HTML5, CSS, CSS3, SAAS, LESS
+— Bootstrap, jQuery, Tailwind CSS
+— GIT
+
+My mission statement is to develop a website/platform that completely satisfies the user's and client's needs. I believe it is crucial to understand the client's vision of the project and satisfy it by writing clean, bug-free, documented, optimal and well-functioning codes. The complete project has to be dynamic, easy to use, and ready for more improvements and features.
+
+I have outstanding communication skills, I speak English fluently.
+I am detail-oriented, hard-working, and very confident in my skills.
+
+_________________________________________________________________________________________________________
+
+Very passionate Mern Stack Developer with five-year experience in MERN (MongoDB, Express, React, Node) Stack development,
+
+I hope you are well. thanks for visiting my profile. if you are looking for a full-stack developer.
+
+I am very strong at core technologies, frameworks, and languages. I can work on relatively complex projects/tasks with relative ease. The projects I deliver mostly involve very sophisticated security elements, the highest level of user interactivity, and huge performance benefits. I've been a programmer for over 7 years and have a lot of experience to bring to the table. I have a Bachelors's in computer science.
+
+Here are some benefits I can think of if you want to hire me:
+
+- I'll keep you updated on everything, so we will make exactly what YOU want, not
+something that I THINK you want
+
+- I'm pretty fluent in English, you will have no problem explaining what you want.
+
+- I'll work in your timezone
+
+- I'm always available for accurate and honest communication
+
+- I am quite creative, I will frequently give you out-of-the-box ideas for your product and its features. Clients love this!
+
+- I have a list of clients from Europe/USA that would highly recommend me
+
+- I'm excellent at programming, so I will almost always find a way to do what other programmers might say is "Impossible to implement" stuff
+
+_________________________________________________________________________________________________________
+
+Hello! Welcome to my “Work it Out” space. I'm a Full-stack Web and Mobile Application Developer, with 8 years of developing SaaS and eCommerce Web and Desktop applications using the MERN stack. I have built over 40+ Mobile applications on IOS and Android using React Native and 20+ Web Applications.
+
+My areas of expertise include JavaScript (ES5, ES6, jQuery), HTML5, CSS, for full-stack development, MERN (MongoDB, Express.js, ReactJS, Node.js, Nest, Next) are my expertise. React Native (Android, iOS) to build awesome mobile applications. MongoDB, Mongoose, MySQL, PostgreSQL, Sequelize, and TypeORM are the DBS I have an extraordinary experience with. For Codebase & Project Management, I am specialized in tools like Git, GitHub, GitLab, Bitbucket, Heroku, Jira, Azure, Trello, and Asana.
+
+I enjoy working with small/medium businesses, startups, and individual decision-makers to provide architectural and custom business solutions with development services that help my clients resolve mission-critical problems, grow their businesses, and improve their revenue stream and profitability. I always care about customer needs and make my work as best as possible.
+
+I specialize in niches like GPS and Payment Method Integration. Customized Ecommerce projects. I have also worked on Social Media applications, Social Wallets, and Healthcare apps.
+
+I am a geek at developing Responsive Websites and designs. Moreover, I have hands-down experience in Bootstrap and related CSS libraries. PHP, CodeIgniter, and Laravel are also something I have extensive experience in. WordPress, LMS, and Moodle are the tech stacks I can easily handle a project on. Lastly, I am commendable in Slack.
+
+I have customized packages on my services for my returning buyers and for new clients. You got a plan? An inspiration? Just a business idea? You can always reach me out for Business Consultation as well. I have so much more than just my technical skills. Let’s meet and build what you have dreamt of.
+
+Let’s Curate it!
+
+_________________________________________________________________________________________________________
+
+⭐⭐⭐⭐⭐ Best UI Design, Development, & Maintenance.
+
+✅ 11+ years of Industry experience in developing websites and Mobile Apps(Flutter, IOS/Android)
+✅ 100% Job Success
+✅ Fluent English Verified
+✅ At least 90 apps published to Google Play or App Store.
+✅ At least 130 websites live
+✅ 7+ official plugins with over 2000+ active installations at WordPress.org
+
+🏆 Certified Native Script Mobile App Developer (Android/IOS)
+🏆 Certified Laravel web Developer
+🏆 Certified WordPress Developer
+🏆 Certified Angular 7 Developer
+🏆 Certified ReactJS Developer
+🏆 Shopify ReactJS Developer
+
+Proficiency in mobile app development:
+- MVC/MVP/CLEAN CODE Architecture practices.
+- Proficient with Object-Oriented Programming concepts.
+- Strictly adhering to the naming conventions and code re-usability
+- Category, Protocol, and Class-based Coding Standards
+- Storyboards
+- Strong optimization and debugging skills.
+- Create Custom Event Handling Using Listeners.
+- Proper Code commenting and documentation.
+- Strong optimization and debugging skills.
+
+Proficiency in website development:
+
+✔ PHP Frameworks (laravel 3.x, 4.x & 5.x, codeigniter, yii, cakephp and zend).
+✔ PHP CMS (WordPress, Shopify).
+✔ MEAN Stack(Mongo DB, React.js, Node js, Typescript & Next.js).
+✔ SQL and NoSQL (MySQL, MongoDB, PostgreSQL and Oracle).
+✔ html5, css3, sass/sass/less/stylus and haml.
+✔ foundation framework (3.0, 4.0, and 5.0), Twitter Bootstrap (2.x and 3.x), profound, pure css, response.gs, and gumby.
+✔ extensions (firefox extensions and bookmarklet developments).
+✔ APIs (Twilio, new relic, Facebook ads, google maps, mandrill, LinkedIn, mail chimp, google maps, LinkedIn, Sailthru, jetpay, eBay, and custom restful API development).
+✔ other (amazon services [ec2, CloudFront, s3 ])
+
+Solutions delivered:
+✅ Taxi & Cab Booking
+✅ GYM, Health & Fitness
+✅ On-Demand Services
+✅ Restaurants & Food Delivery
+✅ E-Commerce & Grocery
+✅ Real Estate & Property Listing
+✅ E-Learning, University, School, Coaching
+✅ Social Networking, Dating
+✅ 2d/3d Mobile Games
+✅ IoT (Internet Of Things)
+✅ Travels, Flight, and Hotel Booking
+
+I'm easygoing and flexible with my work hours. I treat every project as my own project and dedicate myself to offering top-notch quality products and code. I won't quit until the problem gets solved. Please feel free to reach out if you are interested in discussing your project.
+
+_________________________________________________________________________________________________________
+
+I am a full-stack developer with a successful track record of developing mobile and web applications.
+For the last 8 years, I have been working relentlessly to help my customers turn their ideas into working and successful applications through designing, developing, and delivering quality software.
+
+Development Stacks & Experience:
+* React.js/Next.js/Redux, Vue.js/Nuxt.js/Vuex
+* Ruby on Rails, Python/Django, Node.js/Express
+* MySQL, PostgreSQL, MongoDB, Cloud Firestore/Firebase
+* Web Scraping: Scrapy, Selenium, Beautiful Soup, Crawlera
+* Google Map Service, MapBox, SLC, OpenStreetMap SDK, Yandex Map SDK;
+* Social networks API: Facebook, Twitter, LinkedIn, Instagram, Google+, Tumblr, Foursquare, Flickr, Weibo, Wechat;
+* AWS, Azure, Heroku, DigitalOcean
+* Bluehost, GoDaddy, Cloudflare
+* Docker, Kubernetes, Ansible
+* Github, Gitlab, Bitbucket
+* Jira, Trello
+
+I am always happy to discuss your project and provide the highest quality of work.
+Let's work together to set you up for success!
+
+_________________________________________________________________________________________________________
+
+
+🏆 Top Web Developer
+-------------------
+⭐ 8+ years of experience in delivering full stack development services
+⭐ Full stack developer tested on the back-End and front-end frameworks
+⭐ Built excellent web platforms with thousands of users
+⭐ Worked on 45+ full stack SaaS application development
+⭐ Delivered at all levels from startup apps to solutions for public companies
+
+Thank You for viewing my profile
+➖➖➖➖➖➖
+I am new to this platform but not new to the IT world!!!
+
+⭐I am expertise in many programming skills ⭐
+
+CRM
+➖➖➖
+Salesforce
+
+Back-end
+➖➖➖➖
+🛠 PHP [with the framework: Laravel, Yii, CakePHP, Codeigniter]
+🛠MongoDB, MySQL, DynamoDB, PostgreSQL.
+
+Front-end
+➖➖➖➖
+🛠 WordPress, Magento, JavaScript, Vue.js, React.js, Angular.js, Jquery, Ajax.
+🛠 HTML, HTML5, JSON, XML, Rest API.
+🛠 CSS, CSS3, Bootstrap, Responsive.
+
+Mobile App
+➖➖➖➖
+🛠 React-Native, Ionic, Apache Cordova, IoT, Socket.io, iOS &amp; Android
+
+What you will get?
+➖➖➖➖➖
+🎯 Great quality work.
+🎯 Always stick to the deadline.
+🎯 Instant response.
+🎯 Trustworthy developer.
+
+What you will not get?
+➖➖➖➖➖
+🚫 Poor quality work.
+🚫 Never follow the deadline.
+🚫 Delay in response.
+
+Thanks a lot for visiting my profile You are invited to watch my portfolio. Have a good day. 🙂
+
+_________________________________________________________________________________________________________
+
+
+For long-term clients, I offer 20 hours free of work after every 6 months*.
+
+I'm an expert LAMP and MEAN stack developer with extensive experience in building high-quality websites.
+
+My experiences range from building responsive mobile sites that work well cross-browser to building scalable sites for the financial services industry. I like working on projects with a team that cares about creating beautiful and usable interfaces.
+
+It's important to me to build long-term relationships with clients, so I'm primarily looking for long-term projects.
+
+Basics:
+• HTML5 / CSS3 / JS / jQuery
+• Coffeescript / ES6 / ES2015
+• Bootstrap / Foundation
+• BEM / Modular development
+
+Frameworks:
+• Angular2 / Angular / React / Redux
+• MEAN stack (Angular / Node.js / Express.js / MongoDB ), MERN Stack
+• Backbone
+• Laravel, CakePHP, CodeIgnitor, Kohana, Yii
+
+CMS and Others
+• Wordpress , PHP, Magento
+• Python, Vue.js, Cycle.js, Drupal
+
+Build:
+• Gulp / Grunt / Bower / WebPack / NPM
+• BrowserSync
+
+Integrations:
+• API / Ajax / Json / WebSockets
+• AWS / Heroku
+• Customer.io / MailChimp / GetResponse / Aweber
+• HubSpot / Optimizely
+
+Low-code Development ( Low Code Dev ):
+• Directus
+• Strapi
+• Bubble.io
+
+
+Testing:
+* JEST, jasmine
+• Real devices iPhone / iPad / Android
+• BrowserStack / CrossBrowserTesting
+
+Workflow:
+• Agile / Scrum
+• Git / SVN
+• Jira / Trello / Asana / Assembla / Pivotal / Aha
+
+Other:
+• PWA / SPA
+• Firebase / Cordova
+• SEO / Accessibility / RTL
+
+I'm flexible with my working hours and happy to work closely with any existing freelancers you work with.
+I look forward to hearing from you!
+
+_________________________________________________________________________________________________________
+
+Hi everyone,
+
+I`m a result-oriented Front-end developer with 7+ years of hands-on experience building highly scalable & reliable cross-platform web products using modern Javascript technologies, principles, and architectural and design patterns. I adhere to internationally established standards of coding and quality.
+
+Technologies I work with:
+
+✅ Front end: React, Redux, Redux-thunk, Redux-Saga, Vue
+✅ Back end: Node.js, Express.js
+✅ Other: Firebase, SocketIO, MongoDB, Mongoose, Webpack, Typescript, JavaScript, SASS/SCSS
+✅ Tools: Git, BitBucket, Photoshop, Illustrator, Sketch, Jira
+✅ Mobile: React Native expo
+
+I understand how important is to create products that can be easily adjusted to the quickly changing market requirements. To help you withstand the tough competition of your target market, I use only the most powerful tools and technologies that allow me to create awesome products.
+
+If you are looking for a reliable, creative, and experienced IT professional in Ukraine, you have come to the right place - I will eagerly become your longtime partner.
+
+Let's start working together!
+
+_________________________________________________________________________________________________________
+
+"You think it; I develop it"
+"I will DEVELOP your SUCCESS"
+
+I am a skillful Full stack developer with over 7 years of experience. Looking for new opportunities to work with established business owners who want to transform and enhance their web presence to grow their company.
+
+I am responsible for the development and quality of the project by using today’s technology. I have been involved in many types of website .
+
+My main skills are:
+
+✅ PHP, Laravel, Lumen, Apiato
+✅ JavaScript, TypeScript, ES6
+✅ React.js (Redux-Saga, Redux-thunk), Next.js
+✅ Vue.js (Vuex, Vuexy, Vuetify), Quasar, Nuxt.js
+✅ MySQL, PostgreSQL, MongoDB, Cassandra DB
+✅ AWS, Amazon Cognito, Amplify
+✅ API integrations (Stripe, PayPal, Booking.com, Nexmo)
+✅ Bootstrap 4, Material UI
+
+Full time / Part time work.
+Thanks and Regards.
+
+_________________________________________________________________________________________________________
+
+🥇𝐅𝐥𝐮𝐞𝐧𝐭 𝐄𝐧𝐠𝐥𝐢𝐬𝐡
+
+More than 8+ years in Web and Mobile App Development.
+
+Providing Web Applications, Mobile Applications, Desktop Applications, and Progressive Web Applications for the last 10 years. I have gained extensive experience, which helps me to provide my clients with the best services. I have hands-on experience in the fields of website design and development and have also been working on product development for the past couple of years.
+
+I work in collaboration with geek-level developers to provide end-to-end services in the design and development of Web Applications, Mobile Applications, Desktop Applications, and Progressive Web Applications. Hence, the tech stack covered in most of my projects ranges from Laravel Framework, Python, Flask, Node.js, Vue.js, React.js, MySQL, React-Native, Bootstrap, HTML, and CSS... to name a few.
+
+Tech Stack, I am comfortable with:
+
+✓ React.JS
+✓ Laravel Framework
+✓ React Native
+✓ Flask
+✓ AWS Services
+✓ Jamstack
+
+I have had great relationships with my clients, which is reflected in my 5-star rating and 100% job success rate. Most of my clients are with me for the long term, however, the rapport with short-term clients stays the same too. 
+
+Projects I normally work on include:
+
+✅ Web Application Development
+✅ Mobile Application Development
+✅ Desktop Application Development
+✅ Progressive Web Application
+✅ Dedicated Project Teams
+✅ WordPress Plug-in Development
+✅ Shopify App Development
+
+𝐓𝐡𝐞 𝐧𝐞𝐱𝐭 𝐬𝐭𝐞𝐩?
+𝐓𝐞𝐥𝐥 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐩𝐫𝐨𝐛𝐥𝐞𝐦 𝐲𝐨𝐮 𝐡𝐚𝐯𝐢𝐧𝐠 𝐧𝐨𝐰 & 𝐥𝐞𝐭'𝐬 𝐭𝐚𝐥𝐤!
+
+I'm offering you a 𝐅𝐑𝐄𝐄 consultation regarding your project.
+
+We'll also see if we're a good fit to work together.
+
+Just click on the "Hire Now" button to get started, and I'll schedule a call for us.
+
+𝐆𝐞𝐭 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐞𝐝➡️ Plan ➡️ Design ➡️ Develop ➡️ Test ➡️ Launch
+
+
+_________________________________________________________________________________________________________
+
+
+Hi, everyone
+I am a senior full-stack developer with more than 7 years of experience working in web development. I am a masterful problem-solver and boast an extensive portfolio of finished professional products. I also enjoy creating beautiful software with equally impressive code. Along with possessing a talent for understanding and refactoring large code-base, I believe in best practices, small functions, and white space.
+
+I am always striving to find new and more effective ways to solve problems. I enjoy working through all the stages of development and I place a lot of importance on writing clean, well-documented, and easy-to-maintain code. Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
+
+As a full-stack web developer following expertise.
+-HTML, HTML5, CSS, CSS3, SCSS, JavaScript, jQuery, JSON, AJAX, PHP
+-Bootstrap 3.0, Bootstrap 4.0
+-React.js, React/Redux, Redux/Saga, React Hooks, React strap
+-Vue.js, Vuex, Vue-cli, Vue
+-Python, Django
+-Ruby, Ruby on Rails
+-Node.js, Express, Nest.js, GraphQL
+-MySQL, MongoDB, SQLite, PostgreSQL
+-GitHub, GitLab, Bitbucket, SourceTree
+
+And I have full and extensive experience in
+-Pixel perfection and fully responsive across all devices, PSD to HTML
+-Datatables with Bootstrap, React, and Vue
+-Development of Reusable React, Vue Component, and Directive
+-MySQL Programming
+-Database Design
+-Backend Restful API
+
+I hope to be an honest, passionate, and committed developer.
+Thank you for reading.
+
+_________________________________________________________________________________________________________
+
+
+Hi, everyone
+I am a senior full-stack developer with more than 7 years of experience working in web development. I am a masterful problem-solver and boast an extensive portfolio of finished professional products. I also enjoy creating beautiful software with equally impressive code. Along with possessing a talent for understanding and refactoring large code-base, I believe in best practices, small functions, and white space.
+
+I am always striving to find new and more effective ways to solve problems. I enjoy working through all the stages of development and I place a lot of importance on writing clean, well-documented, and easy-to-maintain code. Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
+
+As a full-stack web developer following expertise.
+- HTML, HTML5, CSS, CSS3, SCSS, JavaScript, jQuery, JSON
+- React.js, React/Redux, Redux/Saga, React Hooks, React strap
+- Material UI, Tailwindcss, Bootstrap 3.0, Bootstrap 4.0
+- Node.js, Express, Nest.js, GraphQL
+- MySQL, MongoDB, SQLite, PostgreSQL
+- GitHub, GitLab, Bitbucket, SourceTree
+
+And I have full and extensive experience in
+-Pixel perfection and fully responsive across all devices, PSD to HTML
+-Development of Reusable React
+-MySQL Programming
+-Database Design
+-Backend Restful API
+
+I hope to be an honest, passionate, and committed developer.
+Thank you for reading.
+
+_________________________________________________________________________________________________________
+
+
+*******
+
+Hi.
+I am a Full-stack developer with more than 7 years of experience working in web development.
+I am always striving to find new and more effective ways to solve problems. 
+Furthermore, I enjoy working through all the stages of development and I place a lot of importance on writing clean, well-documented and no-error code. Communication with the client is a crucial part of web development, and I make it a priority to be responsive as well as report regularly on the development process.
+
+As a full-stack web developer following expertise.
+• React / Redux
+• Javascript / Typescript
+• Vue.js
+• MERN / MEVN stack
+• HTML, HTML5, CSS, CSS3, SCSS, JQuery
+- Node.js, Express, Nextjs
+- MySQL, MongoDB, SQLite
+- GitHub, GitLab, BitBucket
+
+If you need to work with experienced developers who always look for improvements and use agile methodology - you're in the right place.
+I will eagerly become your long-time partner.
+
+Let's start working together!
+
+
+
+AWS-ADEV-10566

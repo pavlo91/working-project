@@ -1,0 +1,224 @@
+https://www.freetrade.io/
+https://www.treasure.cloud/
+https://carrd.co/
+https://blush.design/
+https://www.polarr.co/
+https://tectonic.audio/
+https://www.nuclino.com/
+https://www.humaaans.com/
+https://www.bugsnag.com/
+https://www.snipcart.com/
+
+
+https://relica.world/
+React, Node.js, Bootstrap, Javascript, MongoDB
+
+Relica is an Instagram type application. The users can add own photos, albums and videos.
+This application allows every user to monetize their creativity to absolutely all users.
+
+Technical satck used:
+The project is written in React 17 using the 'style-component' styling library and Bootstrap “4.4.1”. HTTP requests to the Node.js server were made through the Axios library.
+For payments Money Button and HandCash Connect services were connected.
+
+Cabdo (https://www.cabdo.de/) - a taxi service app. The system automatically chooses the nearest driver, the driver accepts an order.
+Tech stack: Node.js, Express, MongoDB, Mongoose, React, Redux.
+
+OneSky (https://www.oneskyapp.com/) - a global translation management platform, provides 50+ languages localization solutions for web mobile, game applications.
+Tech stack: Node.js, Express, React, GraphQL, PostgreSQL, AWS
+
+FCR (https://fcr.ca/) - a Canadian Real Estate agency.
+Tech stack: React, Node.js
+
+
+https://stay365.com/
+PHP
+
+https://orlando99.com
+PHP
+
+https://stanbranding.com/
+https://staging.vanuse.com/
+https://nobaworld.com/
+
+https://www.beyondvenues.co.uk/
+WordPress, PHP, MySQL, Nginx
+
+https://www.healthstork.ca/
+Shopify, Webpack, Cloudflare
+
+http://thrillwise.com/
+React, core-js, Nginx, OpenResty, Google Cloud CDN
+
+http://getheadsup.com/
+WordPress, PHP, MySQL, Apache
+
+http://www.Tatiana-Zappa.com
+Wordpress, PHP, Cloudflare, MySQL
+
+https://www.turkishkit.com
+WordPress, PHP, MySQL, GSAP, JQuery, Google Font API, Google, Analytics
+
+https://www.waivlength.io
+Nginx, Ubuntu, Emotion, React, Slick, JQuery, Google Font API, PWA, Bootstrap, Animate.css
+
+https://cozumeladventuretours.com
+WordPress, PHP, MySQL, 
+
+https://litera.net.pl
+WordPress, PHP, MySQL, Nginx
+
+https://rawaink.katowice.eu/
+Wordpress, PHP, MySQL
+
+http://www.makatirent.com
+WordPress, LiteSpeed, PHP, HSTS, MySQL, 
+
+https://www.villageapp.de/
+Webflow, core-js, jQuery, Nginx, 
+
+https://girlgaze.com/
+WordPress, PHP, MySQL, Ubuntu
+
+https://mentoly.com.ua/en/
+Google Analytics, Facebook Pixel, Cloudflare, cdnjs, React, GSAP, core-js, 
+
+https://thegamedev.guru/
+React, Gatsby, webpack
+
+https://car-rental-olive.vercel.app/
+React, JSS, styled-components, webpack, Open Graph, Next.js, Node.js, HSTS, Vercel, MUI
+
+https://freshlay.com.pk/
+Google Analytics, cdnjs, Cloudflare, React, Emotion, core-js, Jquery UI
+
+https://ellwy.com
+Nginx, Ubuntu, JQuery
+
+https://play.google.com/store/apps/details?id=com.gailbroadbentcpa.mymobiletax
+
+https://geelongcoffeeroasters.com.au/
+WordPress, Nginx, PHP, MySQL, JQuery, Elementor, HSTS, Google Analytics
+
+https://www.kapiche.com/
+AWS, Amazon S3, Vue.js, core-js, Gridsome, webpack, 
+
+https://dispensary33.com/
+Open Graph, Plausible, Lightbox
+
+https://www.modusproperty.com.au/
+Vue.js, AWS, core-js, Gridsome
+
+https://manofmany.com/
+WordPress, MySQL, Yoast SEO, Hammer.js, crypto-js, jQuery, Clipboard.js, PHP, Cloudflare
+
+https://zeebe.io/
+WordPress, MySQL, Elementor, Drift, PHP, JQuery, Swiper, lit-html, core-js, Nginx, Cloudflare, cdnjs
+
+https://amp.geturgently.com/
+Webflow, Nginx
+
+https://fieldmagic.co
+AMP, AWS, Cloudflare
+
+https://dragonchain.com/
+styled-components, Emotion, React, Gatsby, AWS, core-js, PWA
+
+https://uglybox.com.au/
+Subbly, anime.js, Elementor, JQuery
+
+https://nowwecollide.com.au/
+WordPress, PHP, MySQL, GSAP
+
+https://www.instamobile.io/
+WordPress, PHP, MySQL, jQuery, Bootstrap
+
+http://www.christine-ting.com/
+React, Express, Node.js
+
+https://where-to-run.com/
+React, Firebase
+
+http://svistel.in/
+https://allowwonder.com/
+https://davi.net.ua
+http://comberrystudios.com
+https://www.nabooki.com
+https://staging.vanuse.com/
+https://nobaworld.com/
+http://www.vendviral.com
+http://schoolx.pk
+http://ewdtech.com:3000
+https://gullidanda.in/
+https://www.sareeo.com
+https://www.healthstork.ca/
+https://mahudam.com/
+
+https://www.gue.tv/
+https://tv.wanderlust.com/
+https://www.mento.dk/
+https://watch.tintyoga.com/
+https://www.reutv.com/
+https://www.inusual.tv/
+https://tv.msworkouts.com/
+https://www.allisone.pro/
+http://www.legendofvyas.com/
+https://www.stacc.ee
+http://www.ip2tel.net.br/
+http://smartupcenter.ru/
+http://aquadial.pearl-water.ru/
+http://www.monforum.ru/
+http://pharmawater.ru/
+http://www.brand2b.biz/
+http://wok.madyar.ru
+https://at.ryd.one/ryd-pay/
+https://www.akhmorning.com/raids/wol/#phase-3
+HTML5, CSS3, Javascript, Sass, AWS Amplify, Node.js
+
+https://dispensary33.com/cannabis/
+HTML5, Javascript, Sass, Flexbox, Node.js, AJAX
+
+https://songbook.app/en
+HTML, SCSS, CSS, Sass, Nuxt.js, BootstrapVue, Vue.js
+
+https://tutorful.co.uk/
+HTML, CSS, SCSS, Vue.js, Bootstrap, Git
+
+https://cloud.deep-mobile.com/dashboard
+Javascript, HTML, SCSS, Css, BootstrapVue, Vue.js, Bootstrap
+
+https://weareyellowball.com/
+HTML5, WordPress, CSS 3, Jquery, Javascript, SCSS
+
+https://rentalchasers.com/
+WordPress, CSS3, Javascript, HTML5, SCSS, PHP
+
+https://www.chinesezerotohero.com/
+CSS3, Javascript, HTML5, SCSS, Vue.js
+
+http://the-chef.co/
+HTML, CSS, WordPress, Vue.js, Animation, Javascript
+
+http://www.slothmove.com
+https://bleachlondon.co.uk/
+https://turbo.intuit.com/
+https://www.mint.com/
+
+https://blue-tree.netlify.app/
+Javascript, Vue.js, Nuxt.js
+
+https://www.deindinglaeuft.de/bewerbung/los
+Vue.js, Javascript, Animation, HTML5, CSS3, SCSS, ECMAScript, Laravel, 
+
+https://willo.video/
+Sass, Nuxt.js, HTML5, Vuetify, SCSS, Vue.js
+
+http://www.quantopian.com/
+http://insightpool.com/
+Ruby
+
+
+Animation
+
+- https://www.marqeta.com/
+- https://www.sendpotion.com/
+- https://phantom.app/
